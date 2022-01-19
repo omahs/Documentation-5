@@ -1,0 +1,5 @@
+# Product Elite
+
+Product Elites will provide structured feedback to the developers during the implementation of a new KIP. Product Elites will be responsible for finding opportunities to improve the product, providing feedback and approving designs, as well as testing and providing feedback on staged code. The Elite Council in conjunction with the Core Contributor Committee will use their discretion to determine the number of Product Elites and adjust their operations as necessary. Council Elites can add and remove Product Elites as they see fit. Product Elites are compensated retroactively by the treasuryDAO based on their performance which is evaluated by the Core Contributor Committee.&#x20;
+
+To become a Product Elite, provide feedback on the product in the Product Feedback channel to earn the Product Elite Candidate role in Discord; when a Product Elite position opens, Product Elite Candidates will be notified and will have the opportunity to put their name in the ballot box where Elite Council members will review applications and select new Product Elites.

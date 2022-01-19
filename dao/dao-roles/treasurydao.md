@@ -1,0 +1,6 @@
+# treasuryDAO
+
+This sub-DAO (outlined in SIP-177) will control the treasury, investment, and growth funds for the Kwenta DAO, working with the Core Contributors and Elite Council to use funds for bootstrapping the protocol and ensuring long-term sustainability. The treasuryDAO would be composed of three anonymous signers where only ⅔ signers would be required to send a transaction. The treasuryDAO would be voted on by the Elite Council via a closed process: Community members would be able to put their name in a ballot box and then the Elite Council would choose from the list which participants would make up the treasuryDAO. Core Contributors and Elite Council members would be the only people to know who operate the treasuryDAO. At least ⅔ treasuryDAO members must be non-council members. An election for the treasuryDAO would only be held when a rebalance of members is required, a forced election would not be held in the same cadence as the Elite Council. TreasuryDAO members have a maximum term life of 1 year before they need to be reelected.
+
+\
+To join the treasuryDAO, add a submission to the treasuryDAO ballot box when a position opens. Watch for ballot box openings by joining the Discord.&#x20;
