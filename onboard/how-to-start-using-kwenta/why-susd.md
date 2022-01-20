@@ -18,11 +18,11 @@ In order to be able to get (swap) sUSD on Optimism you must have already bridged
 
 First, head over to [Uniswap](https://app.uniswap.org/#/swap).
 
-![Uniswap Screen](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.42.11 AM.png>)
+![Uniswap Screen](<../../.gitbook/assets/onboard/uniswap_main.png>)
 
 Connect your web3 wallet to Uniswap and make sure the `Optimistic Ethereum` network in your wallet is selected.
 
-![](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.44.04 AM.png>)
+![](<../../.gitbook/assets/onboard/metamask_networks.png>)
 
 Swap from any supported ERC-20 token to sUSD
 
@@ -30,6 +30,6 @@ Swap from any supported ERC-20 token to sUSD
 Remember to always keep some ETH in your wallet to pay for transaction fees
 {% endhint %}
 
-![Swap Interface for Uniswap](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.45.23 AM.png>)
+![Swap Interface for Uniswap](<../../.gitbook/assets/onboard/uniswap_swap.png>)
 
 You now have sUSD to trade on [Kwenta](https://kwenta.io).
