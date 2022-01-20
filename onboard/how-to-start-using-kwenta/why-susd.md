@@ -2,7 +2,7 @@
 description: Explains why Kwenta uses and why traders need sUSD to utilize Kwenta
 ---
 
-# Why sUSD?
+# How to get sUSD
 
 ## Why do I need sUSD?
 
@@ -13,14 +13,14 @@ Supporting sUSD helps Kwenta stay true to its decentralized ethos. sUSD is a ful
 ## Getting sUSD on Optimistic Ethereum
 
 {% hint style="info" %}
-In order to be able to get (swap) sUSD on Optimism you must have already bridged eligible ERC-20 tokens via a bridge. A tutorial how to use bridges [can be found here](getting-started-on-optimistic-ethereum.md)
+In order to be able to get (swap) sUSD on Optimism you must have already bridged eligible ERC-20 tokens via a bridge. A tutorial how to use bridges [can be found here](getting-started-on-optimistic-ethereum.md).
 {% endhint %}
 
-Head over to [Uniswap](https://app.uniswap.org/#/swap)
+First, head over to [Uniswap](https://app.uniswap.org/#/swap).
 
 ![Uniswap Screen](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.42.11 AM.png>)
 
-Connect your web3 wallet to Uniswap and make sure the "Optimism Mainnet" network in your wallet is selected.
+Connect your web3 wallet to Uniswap and make sure the `Optimistic Ethereum` network in your wallet is selected.
 
 ![](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.44.04 AM.png>)
 
