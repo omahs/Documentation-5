@@ -8,7 +8,7 @@ You want to contribute to the documentation but you don't know where to start? Y
 
 First off, regardless of the time you have or your experience you can provide meaningful contribution to the documentation. Here are some examples depending on the time you have:
 
-* ⏲️: Add a resource, correct a typo, [deduplicate information](contributing.md#favor-links-to-repetition)
+* ⏲️: Add a resource or correct a typo
 * ⏲️⏲️: Rewrite a paragraph, add information to an existing page, create an issue for an improvement, propose a content template
 * ⏲️⏲️⏲️: Propose new content, write an activity report, take an issue
 
@@ -18,7 +18,7 @@ If you really have not much time but you have found a broken link, an error in t
 
 ## Structure
 
-The documentation is structured around top-level directories that map the different [content types](contributing.md#content-types) of the documentation and create a hierarchical structure between contents. These top-level directories appear as the sections of the documentation.
+The documentation is structured around top-level directories that map the different [content types](contribute.md#content-types) of the documentation and create a hierarchical structure between contents. These top-level directories appear as the sections of the documentation.
 
 {% hint style="warning" %}
 Subdirectories to top-level directories will be seen as a content with different levels of nesting and not as subsections.
@@ -35,7 +35,7 @@ For example, if you want to have a meeting reports page with separate pages for 
 │       └── README.md
 ```
 
-In this case, the `README.md` would contain a list of the different meetings and at least a [description of the page](contributing.md#content-templates).
+In this case, the `README.md` would contain a list of the different meetings and at least a [description of the page](contribute.md#content-templates).
 
 There are no hard limits on the nesting of pages but you should avoid having more than 3 levels.
 
@@ -95,7 +95,7 @@ When adding image to the documentation :
 2. All files must be stored under `.gitbook/assets` at the root of the documentation
 3. Files reused across multiples sections must be in the `common` subdirectory
 4. Files specifically used in one section must be in the subdirectory with the same name as the section
-5. Following [naming](contributing.md#naming) conventions use clear names describing the content of the media
+5. Following [naming](contribute.md#naming) conventions use clear names describing the content of the media
 
 As the assets directory is at the root of the documentation, to add a link to the image the path must be relative: if you add a page in the section `dao` the image link will be`![]`(`../.gitbook/assets/filename.jpeg)`
 
@@ -109,7 +109,7 @@ We currently provide the following templates:
 
 * **Basic Template** \[`basic-page.md`]: as the name suggests, it contains the very minimal elements that are required for a page.
 
-If there are no templates for a specific content type, you can propose one by following our [improvement processes](contributing.md#process). As there are some minimal requirements for a page, make sure to use our basic template as a start.
+If there are no templates for a specific content type, you can propose one by following our [improvement processes](contribute.md#process). As there are some minimal requirements for a page, make sure to use our basic template as a start.
 
 ### Writing style
 
