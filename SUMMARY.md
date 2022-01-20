@@ -5,9 +5,9 @@
 ## Onboard
 
 * [How to start using Kwenta](onboard/how-to-start-using-kwenta/README.md)
-  * [DeFi what is it? How do I start?](onboard/how-to-start-using-kwenta/defi-what-is-it-how-do-i-start.md)
-  * [Getting Started on Optimistic Ethereum](onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md)
-  * [Why sUSD?](onboard/how-to-start-using-kwenta/why-susd.md)
+  * [DeFi: What is it?](onboard/how-to-start-using-kwenta/defi-what-is-it-how-do-i-start.md)
+  * [Getting started on Optimism](onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md)
+  * [How to get sUSD](onboard/how-to-start-using-kwenta/why-susd.md)
 
 ## DAO
 

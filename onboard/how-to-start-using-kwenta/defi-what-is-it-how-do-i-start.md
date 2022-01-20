@@ -18,5 +18,5 @@ DeFi creates fair financial tools that anyone can utilize so long an internet co
 * Anyone can participate in DeFi. A web3 wallet and an internet connection is all that's needed.
 
 {% hint style="info" %}
-For help accessing and setting up a web3 wallet we've put together a ["How to setup MetaMask Guide"](https://blog.kwenta.io/installing-metamask/).
+For help accessing and setting up a web3 wallet we've put together a [How to setup MetaMask guide](https://blog.kwenta.io/installing-metamask/).
 {% endhint %}
