@@ -20,19 +20,19 @@ The upcoming steps assume you already have setup and funded a web3 wallet on Eth
 
 Using Optimism requires users to bridge Ether (ETH) or other supported ERC-20 tokens to the Optimism network. Making use of the official [Optimism Gateway](https://gateway.optimism.io) bridge makes this process simple and intuitive.
 
-![Main Optimism Bridge Screen](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.10.03 AM.png>)
+![Main Optimism Bridge Screen](<../../.gitbook/assets/onboard/gateway_main.png>)
 
 Connect your wallet by selecting `Connect` and select your web3 wallet provider. Make sure you are connected to `Ethereum Mainnet`.
 
-![Select the connectivity option you would like to use ](../../.gitbook/assets/image.png)
+![Select the connectivity option you would like to use ](../../.gitbook/assets/onboard/gateway_select_wallet.png)
 
 Once you connected your wallet to the Optimism bridge you can choose supported assets and the amount you wish to send over to layer 2 Optimism.
 
-![Official Bridge to Layer 2 Screen](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.14.56 AM.png>)
+![Official Bridge to Layer 2 Screen](<../../.gitbook/assets/onboard/gateway_deposit.png>)
 
 Finalize the bridge transaction by selecting `Deposit` and approve the transaction via your connected wallet.
 
-![Deposit en Route Screen](../../.gitbook/assets/1hzJnfP81yYX8v7dRGJY48A.png)
+![Deposit en Route Screen](../../.gitbook/assets/onboard/gateway_en_route.png)
 
 The entire bridging process will take about 5-10 minutes, once complete you are ready to interact with dApps on Optimism.
 
@@ -44,4 +44,4 @@ Withdrawing assets back to layer 1 or Ethereum Mainnet can be accomplished via t
 There are many bridging solutions available. Note that withdrawals processed via the official Optimism bridge are subject to a 7 day challenge period. Withdrawn funds will be unavailable until this 7 day period is complete. Alternatively users can use [other bridges](https://www.optimism.io/apps/bridges) for off-ramp purposes that don't require a 7 day challenge period.
 {% endhint %}
 
-![Withdraw from Layer 2 Ethereum](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.32.43 AM.png>)
+![Withdraw from Layer 2 Ethereum](<../../.gitbook/assets/onboard/gateway_withdraw.png>)
