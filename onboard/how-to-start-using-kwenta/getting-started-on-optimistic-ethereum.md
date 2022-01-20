@@ -1,46 +1,47 @@
-# Getting Started on Optimistic Ethereum
+---
+description: How to begin your optimistic journey
+---
 
-Ethereum mainnet transactions are increasingly becoming expensive. This ongoing crisis birthed layer-2 scaling solutions like Optimism.
+# Getting started with Optimism
 
-Transactions are processed on a Layer-2 network such as Optimism (a network built on top of Ethereum) instead of occurring directly on mainnet Ethereum. The Layer 2 solution submits transactions in groups to the Ethereum mainnet. They are then secured by Ethereums leading security, reducing end-user fees and increasing transaction speed. Optimism states users can save up to 50x in transaction fees.
+Ethereum mainnet transactions are increasingly becoming expensive. This ongoing crisis birthed layer 2 scaling solutions like [Optimism](https://optimism.io).
 
-### Getting Started with Optimistic Ethereum
+Transactions are processed on a layer 2 network such as Optimism (a network built on top of Ethereum) instead of occurring directly on mainnet Ethereum. The layer 2 solution submits transactions in groups to the Ethereum mainnet. They are then secured by Ethereums leading security, significantly reducing end-user fees and increasing transaction speed. Optimism states users can save up to 50x in transaction fees.
 
-Optimistic Ethereum provides Near-instant transactions, lower transaction fees, and has the same level of security Ethereum provides.
+## Getting started with Optimism
+
+Optimism provides near-instant transactions, lower transaction fees, while providing the same level of security as Ethereum.
 
 {% hint style="info" %}
-\* note these upcoming steps assume you already have setup and funded a Web 3.0 Wallet as well as added the Optimistic Ethereum networks required to your wallet. If you need help with setting up a wallet follow our web 3.0 setup guide in [defi-what-is-it-how-do-i-start.md](defi-what-is-it-how-do-i-start.md "mention") and fund it with Ethereum (eth tokens).
+\* The upcoming steps assume you already have setup and funded a web3 wallet as well as added the Optimism network required to your wallet. If you need help with setting up a wallet, please follow our web3 setup guide in [defi-what-is-it-how-do-i-start.md](defi-what-is-it-how-do-i-start.md "mention") and fund it with Ethereum (ETH).
 {% endhint %}
 
-### Moving assets to Optimistic Ethereum
+## Moving assets to Optimism
 
-Using Optimistic Ethereum requires users to bridge Ether (eth tokens) or other supported ERC-20 tokens to the Optimistic Ethereum Network. Making use of the official [Optimism Gateway](https://gateway.optimism.io) makes this process simple and intuitive.&#x20;
+Using Optimism requires users to bridge Ether (ETH) or other supported ERC-20 tokens to the Optimism network. Making use of the official [Optimism Gateway](https://gateway.optimism.io) bridge makes this process simple and intuitive.
 
 ![Main Optimism Bridge Screen](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.10.03 AM.png>)
 
-Connect your wallet by selecting "Connect" and select your Web 3 wallet provider
+Connect your wallet by selecting `Connect` and select your web3 wallet provider.
 
-![Select the Connectivity option you would like to use ](../../.gitbook/assets/image.png)
+![Select the connectivity option you would like to use ](../../.gitbook/assets/image.png)
 
-Once users approve connecting their wallet to the Optimism Bridge they can choose from supported assets and an amount they wish to send over to Layer 2 Optimistic ethereum.
+Once you connected your wallet to the Optimism bridge you can choose supported assets and the amount you wish to send over to layer 2 Optimism.
 
 ![Official Bridge to Layer 2 Screen](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.14.56 AM.png>)
 
-Finalize the bridge transaction by selecting "Deposit" and approving the transaction via their connected wallet.
+Finalize the bridge transaction by selecting `Deposit` and approve the transaction via your connected wallet.
 
-![](../../.gitbook/assets/1hzJnfP81yYX8v7dRGJY48A.png)
+![Deposit en Route Screen](../../.gitbook/assets/1hzJnfP81yYX8v7dRGJY48A.png)
 
-The entire Bridging process will take about 5-10 minutes, once complete you are ready to interact with dApps on Optimistic Ethereum.
+The entire bridging process will take about 5-10 minutes, once complete you are ready to interact with dApps on Optimism.
 
-#### Withdrawing assets from layer 2?
+### Withdrawing assets from layer 2
 
-Withdrawing assets back to Layer 1 or mainnet Ethereum can be accomplished via the same [Optimism Gateway](https://gateway.optimism.io). Instead of selecting "deposit" users instead use the "withdrawal function"&#x20;
-
-![Withdraw from Layer 2 Ethereum](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.32.43 AM.png>)
+Withdrawing assets back to layer 1 or mainnet Ethereum can be accomplished via the same [Optimism Gateway](https://gateway.optimism.io). Instead of selecting `Deposit` users instead use the `Withdraw` function.
 
 {% hint style="info" %}
-There are many bridging solutions available. Note that withdrawals processed via the official optimism bridge are subject to a "7 day challenge period" withdrawn funds will be unavailable until this 7 day period is complete" alternatively users can use other bridges for offramp purposes that don't require this 7 day wait period. Hop exchange shown above is one of those alternatives.
+There are many bridging solutions available. Note that withdrawals processed via the official Optimism bridge are subject to a 7 day challenge period. Withdrawn funds will be unavailable until this 7 day period is complete. Alternatively users can use [other bridges](https://www.optimism.io/apps/bridges) for off-ramp purposes that don't require a 7 day challenge period.
 {% endhint %}
 
-
-
+![Withdraw from Layer 2 Ethereum](<../../.gitbook/assets/Screen Shot 2021-12-07 at 9.32.43 AM.png>)
