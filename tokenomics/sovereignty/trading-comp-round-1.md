@@ -1,12 +1,12 @@
 ---
-description: March 15th - March 22nd during Week 5
+description: Week 5 (March 15th - March 22nd)
 ---
 
-# Trading Comp Round 1
+# Trading Competition Round 1
 
-On Tuesday, March 15 Round 1 of the futures competition will commence. The week-long competition will be held where participants will compete to generate the most amount of profit with Kwenta’s futures product, working their way as high up the leader as possible.
+On Tuesday, March 15th round 1 of the Futures competition will commence. The week-long competition will be held where participants will compete to generate the most amount of profit with Kwenta’s Futures product, working their way as high up the leader as possible.
 
-The round one prize pool will include 144 KWENTA:&#x20;
+The round one prize pool will include 144 KWENTA:
 
 | Rank             | Prize                       |
 | ---------------- | --------------------------- |
