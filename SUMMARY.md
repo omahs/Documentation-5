@@ -23,7 +23,9 @@
   * [marketingDAO](dao/dao-roles/marketingdao.md)
   * [devDAO](dao/dao-roles/devdao.md)
   * [Admirals](dao/dao-roles/admirals.md)
-* [Contribute](dao/contribute.md)
+* [Contribute](dao/contribute/README.md)
+  * [Documentation](dao/contribute/contribute.md)
+  * [Developers](dao/contribute/devdao-contribute.md)
 
 ## Tokenomics
 

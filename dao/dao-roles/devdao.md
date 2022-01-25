@@ -6,6 +6,8 @@ A community-oriented development structure that rewards community developers for
 This sub-DAO has not yet launched, stay tuned for updates in our [Discord](https://www.discord.gg/Kwenta).
 {% endhint %}
 
+Before helping out at the Kwenta devDAO, make sure you have a look at our [developer contribution guideline](../contribute/devdao-contribute.md).
+
 ## Why a devDAO
 
 By opening development to the Kwenta community, not only will the DAO accelerate progress but it will also gain resiliency as Core Contributors become less of a crux for product development. To achieve full decentralization, open development is essential.
