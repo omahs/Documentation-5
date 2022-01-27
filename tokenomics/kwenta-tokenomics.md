@@ -6,13 +6,15 @@ description: Kwenta tokenomics explained
 
 The Kwenta token (KWENTA) will be used to incentivize coordination and growth within the Kwenta DAO. It will have two primary functions: (a) **Staking** and (b) **Governance**.
 
-{% hint style="tip" %}
+{% hint style="info" %}
 Further reading: [KIP-4: Kwenta Tokenomics](https://kips.kwenta.io/kips/kip-4/)
 {% endhint %}
 
 ## Supply
 
 KWENTA will have an initial **supply of 313,373.** Inflationary rewards will start at 60% APY in KWENTA and linearly deplete to 1% indefinitely over the course of 4 years. This will result in a total supply of 1,062,486.81 KWENTA at the end of 4 years. and will be distributed as follows:
+
+![](../.gitbook/assets/Tokenomics.png)
 
 * 30% - Synthetix Stakers
 * 5% - synthetix.exchange and early Kwenta Traders
