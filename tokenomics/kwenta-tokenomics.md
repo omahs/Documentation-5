@@ -14,14 +14,14 @@ Further reading: [KIP-4: Kwenta Tokenomics](https://kips.kwenta.io/kips/kip-4/)
 
 KWENTA will have an initial **supply of 313,373.** Inflationary rewards will start at 60% APY in KWENTA and linearly deplete to 1% indefinitely over the course of 4 years. This will result in a total supply of 1,062,486.81 KWENTA at the end of 4 years. and will be distributed as follows:
 
-![](../.gitbook/assets/Tokenomics.png)
-
 * 30% - Synthetix Stakers
 * 5% - synthetix.exchange and early Kwenta Traders
 * 5% - Investment
 * 25% - Community Growth Fund
 * 15% - Core Contributors
 * 20% - Kwenta Treasury
+
+![](../.gitbook/assets/Tokenomics-2.png)
 
 ## Inflation and Fee Allocation:
 
