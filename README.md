@@ -22,8 +22,8 @@ With these docs, you can learn how to start using Kwenta, navigate the platform,
 
 #### Other Resources
 
-{% content-ref url="tokenomics/kwenta-tokenomics.md" %}
-[kwenta-tokenomics.md](tokenomics/kwenta-tokenomics.md)
+{% content-ref url="tokenomics/sovereignty/kwenta-tokenomics.md" %}
+[kwenta-tokenomics.md](tokenomics/sovereignty/kwenta-tokenomics.md)
 {% endcontent-ref %}
 
 {% content-ref url="tokenomics/exchange-fees.md" %}

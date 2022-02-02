@@ -34,12 +34,12 @@
 
 ## Tokenomics
 
-* [Kwenta Tokenomics](tokenomics/kwenta-tokenomics.md)
 * [Sovereignty](tokenomics/sovereignty/README.md)
   * [Aelin Raise](tokenomics/sovereignty/aelin-raise.md)
   * [SNX Staking Rewards](tokenomics/sovereignty/snx-staking-rewards.md)
   * [LP & Staking Rewards](tokenomics/sovereignty/lp-staking-rewards.md)
   * [Trading Comp Round 1](tokenomics/sovereignty/trading-comp-round-1.md)
+  * [Kwenta Tokenomics](tokenomics/sovereignty/kwenta-tokenomics.md)
   * [Trading Comp Round 2](tokenomics/sovereignty/trading-comp-round-2.md)
   * [Kwenta V2](tokenomics/sovereignty/kwenta-v2.md)
   * [Token Launch](tokenomics/sovereignty/token-launch.md)
