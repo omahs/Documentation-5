@@ -1,8 +1,10 @@
+---
+description: Explaining SIP-37 and its implications for L1 traders
+---
+
 # Fee Reclamation
 
-
-
-### Fee Reclamation and Rebates
+## Fee Reclamation and Rebates
 
 [SIP-37](https://sips.synthetix.io/sips/sip-37) introduced fee reclamation and rebates. These are intended to prevent traders from front-running the latency of Ethereum block processing on Ethereum (L1).&#x20;
 
