@@ -9,6 +9,11 @@
   * [Getting started on Optimism](onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md)
   * [How to get sUSD](onboard/how-to-start-using-kwenta/why-susd.md)
 
+## Shorting
+
+* [Shorting Explained](shorting/what-is-shorting.md)
+* [Shorting Tutorial](shorting/shorting-tutorial.md)
+
 ## DAO
 
 * [Governance Framework](dao/governance-framework.md)
