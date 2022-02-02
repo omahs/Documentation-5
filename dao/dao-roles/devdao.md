@@ -4,7 +4,7 @@ description: Community-oriented sub-DAO within Kwenta
 
 # devDAO
 
-The devDAO is a community-oriented development structure that rewards community developers for closing outstanding tickets by having their code merged. It also enables structured compensation for long-term community members. This sub-DAO include a community PM, various developer roles, and auditors.
+The devDAO is a community-oriented development structure that rewards community developers for closing outstanding tickets by having their code merged. It also enables structured compensation for long-term community members. This sub-DAO includes a community PM, various developer roles, and auditors.
 
 {% hint style="info" %}
 Join the `#commmunity-dev`channel on our [Discord](https://www.discord.gg/Kwenta) to participate in the devDAO.
@@ -37,7 +37,7 @@ Before helping out at the Kwenta devDAO, make sure to read our [developer contri
 
 ## Roles within the devDAO
 
-The devDAO will provide an interface where community developers can monitor open tickets with their associated reward. Within the devDAO, there are different roles depending on the level of difficulty of tickets:
+The devDAO provides the dedicated Discord channel `#dev-tickets` where community developers can monitor open tickets with their associated reward. Within the devDAO, there are different roles depending on the level of difficulty of tickets:
 
 ### Community PM
 
