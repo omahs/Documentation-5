@@ -30,6 +30,6 @@ With these docs, you can learn how to start using Kwenta, navigate the platform,
 [exchange-fees.md](tokenomics/exchange-fees.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/smart-contracts.md" %}
-[smart-contracts.md](tokenomics/smart-contracts.md)
+{% content-ref url="resources/smart-contracts.md" %}
+[smart-contracts.md](resources/smart-contracts.md)
 {% endcontent-ref %}

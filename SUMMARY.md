@@ -39,12 +39,9 @@
   * [Kwenta V2](tokenomics/sovereignty/kwenta-v2.md)
   * [Token Launch](tokenomics/sovereignty/token-launch.md)
 * [Exchange Fees](tokenomics/exchange-fees.md)
-* [Smart Contracts](tokenomics/smart-contracts.md)
 
 ## Resources
 
-* [Kwenta](https://kwenta.io)
+* [Fee Reclamation](resources/fee-reclamation.md)
+* [Smart Contracts](resources/smart-contracts.md)
 * [GitHub](https://github.com/Kwenta)
-* [Community Discord](https://discord.gg/dZ6DMvSm53)
-* [Twitter](https://twitter.com/kwenta\_io)
-* [Blog](https://blog.kwenta.io)
