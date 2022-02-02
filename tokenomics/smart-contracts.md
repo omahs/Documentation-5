@@ -13,8 +13,7 @@ For an up to date list of all contracts within the current Synthetix system plea
 [SIP-37](https://sips.synthetix.io/sips/sip-37) introduced fee reclamation and rebates. These are intended to prevent traders from front-running the latency of Ethereum block processing on Ethereum (L1).&#x20;
 
 {% hint style="info" %}
-Fee reclamation and rebates **only apply to Ethereum Mainnet** (L1). Trades on Optimism Layer 2 are not affected by SIP-37.\
-
+Fee reclamation and rebates **only apply to Ethereum Mainnet** (L1). Trades on Optimism Layer 2 are not affected by SIP-37.
 {% endhint %}
 
 Synthetic assets traded on Kwenta need regular price updates on-chain. More frequent price updates require a substantial amount of gas. When a change occurs in price it must be updated on-chain. The delay between real-time prices and the new price being confirmed in an oracle update (price pushed on-chain) is known as oracle latency. Fee reclamation provides a complex yet needed solution.
