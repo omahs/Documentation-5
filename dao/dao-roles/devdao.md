@@ -32,7 +32,7 @@ Tickets currently have two tiers, depending on their complexity:&#x20;
 * **Community dev tickets**: Bounty hunters who have shown off their skills repeatedly over time will eventually raise to the ranks of community developers. They are then eligible to routinely take on intermediate to advanced tickets.
 
 {% hint style="info" %}
-Before helping out at the Kwenta devDAO, make sure to read our [developer contribution guideline](../contribute/devdao-contribute.md).
+Before helping out at the Kwenta devDAO, make sure to read our [developer contribution guideline](../contribute/devdao-contribute/).
 {% endhint %}
 
 ## Roles within the devDAO

@@ -30,7 +30,8 @@
   * [Admirals](dao/dao-roles/admirals.md)
 * [Contribute](dao/contribute/README.md)
   * [Documentation](dao/contribute/contribute.md)
-  * [Developers](dao/contribute/devdao-contribute.md)
+  * [Developers](dao/contribute/devdao-contribute/README.md)
+    * [Testing](dao/contribute/devdao-contribute/testing.md)
 
 ## Tokenomics
 
