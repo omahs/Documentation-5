@@ -10,6 +10,6 @@ There are different ways to contribute at Kwenta. You can be an active community
 [contribute.md](contribute.md)
 {% endcontent-ref %}
 
-{% content-ref url="devdao-contribute/" %}
-[devdao-contribute](devdao-contribute/)
+{% content-ref url="devdao-contribute.md" %}
+[devdao-contribute.md](devdao-contribute.md)
 {% endcontent-ref %}

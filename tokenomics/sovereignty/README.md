@@ -1,10 +1,12 @@
 ---
-description: The Sovereignty phase will take place over the course of 8 weeks starting February 14th 2022
+description: >-
+  The Sovereignty phase will take place over the course of 8 weeks starting
+  February 14th 2022
 ---
 
 # Sovereignty
 
-Modeled after the success of the Lyra Ignition campaign, Kwenta will host a 8 week-long campaign to facilitate the launch of Futures, [V2](kwenta-v2.md), and the [Kwenta token](token-launch). The Kwenta Sovereignty phase will include L2 SNX Staking and liquidity mining rewards, a Futures competition, and other opportunities to obtain Kwenta. This campaign is to amplify the launch of Futures, V2, and the Kwenta token, resulting in DAO growth and increased product usage along with making sure ample liquidity is available on Optimism.
+Modeled after the success of the Lyra Ignition campaign, Kwenta will host a 8 week-long campaign to facilitate the launch of Futures, [V2](kwenta-v2.md), and the [Kwenta token](token-launch/). The Kwenta Sovereignty phase will include L2 SNX Staking and liquidity mining rewards, a Futures competition, and other opportunities to obtain Kwenta. This campaign is to amplify the launch of Futures, V2, and the Kwenta token, resulting in DAO growth and increased product usage along with making sure ample liquidity is available on Optimism.
 
 Kwenta will be distributing a total of 23,675 tokens (7.55% of the initial supply) to participants during these 8 weeks.
 
@@ -12,8 +14,8 @@ Kwenta will be distributing a total of 23,675 tokens (7.55% of the initial suppl
 
 #### Week 1 & 2 (Feb 14th - Feb 27th)
 
-{% content-ref url="aelin-raise.md" %}
-[aelin-raise.md](aelin-raise.md)
+{% content-ref url="aelin-raise/" %}
+[aelin-raise](aelin-raise/)
 {% endcontent-ref %}
 
 #### Week 3 & 4 (Feb 28st - March 13th)
@@ -49,7 +51,6 @@ Kwenta will be distributing a total of 23,675 tokens (7.55% of the initial suppl
 {% content-ref url="token-launch.md" %}
 [token-launch.md](token-launch.md)
 {% endcontent-ref %}
-
 
 {% hint style="info" %}
 For a full technical description of Sovereignty, please see [KIP-10.](https://kips.kwenta.io/kips/kip-10/)
