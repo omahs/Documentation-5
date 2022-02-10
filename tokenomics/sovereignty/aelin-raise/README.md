@@ -27,5 +27,5 @@ Uncapped pools allow anyone to purchase as much as they want but token allocatio
 Pool contributors will receive vKWENTA which will be directly claimable for KWENTA on a 1:1 basis once the token is live _(target launch is currently late Q1-early Q2)_. vKWENTA will not be stakeable or usable in Kwenta governance, it must be converted to KWENTA in order to be used within the DAO.
 
 {% hint style="info" %}
-For a full technical description of the Aelin raise, please see [KIP-9](https://kips.kwenta.io/kips/kip-9/). For help on how to participate in the Aelin Pool see [kwenta-aeling-how-to.md](kwenta-aeling-how-to.md "mention")
+For a full technical description of the Aelin raise, please see [KIP-9](https://kips.kwenta.io/kips/kip-9/). For help on how to participate in the Aelin Pool see [kwenta-aelin-how-to.md](kwenta-aelin-how-to.md "mention")
 {% endhint %}

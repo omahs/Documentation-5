@@ -38,7 +38,7 @@
 * [Kwenta Tokenomics](tokenomics/kwenta-tokenomics.md)
 * [Sovereignty](tokenomics/sovereignty/README.md)
   * [Aelin Raise](tokenomics/sovereignty/aelin-raise/README.md)
-    * [Kwenta Aeling How To](tokenomics/sovereignty/aelin-raise/kwenta-aeling-how-to.md)
+    * [Kwenta Aelin How To](tokenomics/sovereignty/aelin-raise/kwenta-aelin-how-to.md)
     * [Join the Pool](tokenomics/sovereignty/aelin-raise/join-the-pool.md)
     * [Reject/Accept Deal](tokenomics/sovereignty/aelin-raise/reject-accept-deal.md)
     * [Sample Deal Flow](tokenomics/sovereignty/aelin-raise/sample-deal-flow.md)

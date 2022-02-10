@@ -1,4 +1,8 @@
-# Kwenta Aeling How To
+---
+description: How to use the Kwenta Aelin Pool
+---
+
+# Kwenta Aelin How To
 
 The Kwenta Aelin raise will be held on Optimism Layer 2. In order to participate pool contributors will need to bridge to/from Optimism.
 
