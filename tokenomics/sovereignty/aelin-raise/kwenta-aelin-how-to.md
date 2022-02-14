@@ -16,7 +16,9 @@ If you are familiar with bridges you can use any of the options below to bridge 
 * [https://hop.exchange/](https://hop.exchange) - Recommended bridge
 * [https://www.optimism.io/apps/bridges](https://www.optimism.io/apps/bridges) - More bridges
 
-Here are some terms you might come across while participating in the Kwenta Community Aelin raise and how they apply in our case.
+### Aelin Key terms and how they apply
+
+Here are some terms you will come across while participating in the Kwenta Community Aelin raise and how they apply to this specific raise.
 
 | Keywords                          | Description                                                                                                                                                                                                               | Applied to the Kwenta Raise                           |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |

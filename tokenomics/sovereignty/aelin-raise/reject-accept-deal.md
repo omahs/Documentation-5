@@ -31,7 +31,7 @@ Ex. A contributor who allocated $5000 sUSD to the Pool will receive $2500 sUSD w
 
 ### **Open Redemption Period** <a href="#open-redemption-period" id="open-redemption-period"></a>
 
-This happens when you **max.** out your allocation in Scenario 2, making you eligible to participate in the open redemption period. Here you may redeem the remaining Pool Tokens for Deal tokens up until you have used all your funds or the deal cap has been reached.
+This happens when you **max** out your allocation in Scenario 2, making you eligible to participate in the open redemption period. Here you may redeem the remaining Pool Tokens for Deal tokens up until you have used all your funds or the deal cap has been reached.
 
 {% hint style="info" %}
 Contributors that accept a partial amount of their allocation cannot participate in the Open Redemption Period.
@@ -39,4 +39,4 @@ Contributors that accept a partial amount of their allocation cannot participate
 
 ### **Uncapped vs Capped Pools**
 
-Aelin protocol makes use of two kinds of Pool types. Uncapped and Capped. In a capped pool the cap acts as a hard ceiling and cannot be oversubscibed. While in an Uncapped Pool, the raise can go over the cap, and once it becomes oversubscibed everyone allocation gets scaled back proportionally.
+Aelin protocol makes use of two kinds of Pool types. Uncapped and Capped. In a capped Pool the cap acts as a hard ceiling and the Pool cannot be oversubscribed, (overbought) this makes it possible that bots and or whales can buy up the Pool ensuring no one else can buy in. While in an Uncapped Pool, the raise can go over the cap, and once it becomes oversubscribed everyones allocation gets scaled back proportionally, allowing for maximum participation.&#x20;

@@ -16,6 +16,9 @@ The pool will accept **sUSD** and will be open for a period of 2 weeks starting 
 > * Currency accepted: **sUSD**
 > * Pool length: **Two weeks**
 > * Pool Type: **Uncapped**
+> * sUSD GOAL: **5M**
+> * Amount of tokens: **5% of Initial Supply**
+> * Valuation: **100m**
 > * Vesting: **N/A**
 
 Please note that pool contributors have a 24-hours allocation window to accept the deal terms once the buy-in period is closed or they forfeit their allocation (Feb 27th, 2022). Once the allocation window closes, contributors who accepted their full allocation will then have another 12-hour open window to buy the remaining tokens on a first-come, first-serve basis.
