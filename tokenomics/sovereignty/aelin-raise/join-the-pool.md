@@ -1,6 +1,6 @@
 # Join the Pool
 
-For those interested in participating in the Kwenta Aelin raise, you will need:
+![](../../../.gitbook/assets/Animation1.gif)For those interested in participating in the Kwenta Aelin raise, you will need:
 
 * Web 3 Wallet see [kwenta-aelin-how-to.md](kwenta-aelin-how-to.md "mention")
 * ETH on Layer 2 Optimism [getting-started-on-optimistic-ethereum.md](../../../onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md "mention")
@@ -21,7 +21,7 @@ Once you have found the Kwenta Pool, review all the details related to the Pool 
 ****\
 ****You can connect your web3 wallet by finding the "Connect" button at the top right corner of the Aelin screen. You'll be prompted to pick your wallet and approve a prompt allowing access to communicate with your wallet.
 
-!["Connect" button in the top right](../../../.gitbook/assets/Aelin.png)
+![](../../../.gitbook/assets/Animation1.gif)
 
 {% hint style="info" %}
 Confirm you are connected to the correct wallet and on Optimism Layer 2.&#x20;
@@ -29,10 +29,9 @@ Confirm you are connected to the correct wallet and on Optimism Layer 2.&#x20;
 
 **Step 2 - Pledge sUSD**\
 ****\
-****In this step once your wallet is connected you can you enter the amount you wish to purchase and select "Purchase" you'll be prompted in your web3 wallet to approve/allow the contract to spend your sUSD, and later approve the contribution.\
+****In this step once your wallet is connected you can you enter the amount you wish to purchase and select "Purchase" you'll be prompted in your web3 wallet to approve/allow the contract to spend your sUSD, and later approve the contribution.
 
-
-![Purchase pool tokens](<../../../.gitbook/assets/Aelin (1).png>)
+![](../../../.gitbook/assets/marko.png)
 
 Once complete (a few seconds) you'll see "My Pool Balance" will reflect your contribution in the Pool dashboard.
 
