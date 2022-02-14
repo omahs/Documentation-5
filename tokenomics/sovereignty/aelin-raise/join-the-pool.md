@@ -1,6 +1,6 @@
 # Join the Pool
 
-![](../../../.gitbook/assets/Animation1.gif)For those interested in participating in the Kwenta Aelin raise, you will need:
+For those interested in participating in the Kwenta Aelin raise, you will need:
 
 * Web 3 Wallet see [kwenta-aelin-how-to.md](kwenta-aelin-how-to.md "mention")
 * ETH on Layer 2 Optimism [getting-started-on-optimistic-ethereum.md](../../../onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md "mention")

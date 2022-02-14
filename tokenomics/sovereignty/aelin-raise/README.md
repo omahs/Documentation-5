@@ -6,7 +6,7 @@ description: Week 1 & 2 (Feb 14th to Feb 27th)
 
 The Kwenta treasuryDAO will raise funds via [Aelin](https://aelin.xyz) to fuel DAO development.
 
-Kwenta will sell 5% of the initial token supply (15,668.65 KWENTA) at a 100m USD valuation using the Aelin protocol on Optimism.
+Kwenta will sell 5% of the initial token supply (15,668.65 $vKWENTA) at a 100m USD valuation using the Aelin protocol on Optimism.
 
 The pool will accept **sUSD** and will be open for a period of 2 weeks starting February 14th, 2022.
 
