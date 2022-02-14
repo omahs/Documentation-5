@@ -5,7 +5,7 @@ An overview of the deal is below.
 1. Kwenta TreasuryDAO sponsors a pool with an uncapped amount of $sUSD. Purchasers have two weeks (Feb 14-27th) to enter the pool and the sponsor fee was set to 0.
 2. About $10M will be deposited by purchasers.
 3. The 2-week purchase window closes.
-4. The pool funds lock for a 1 day period giving the sponsor a brief window of time to send the token transaction and announce the deal
+4. The pool funds lock for a 2 day period giving the sponsor a brief window of time to send the token transaction and announce the deal
 5. The Kwenta treasuryDAO council finalizes the deal by depositing 15,657 $vKWENTA into the deal contract
 6. The Pro Rata redemption period starts (48 hours in this case): This is where you have a chance to confirm your allocation of the deal. In this case, there is 10M of capital trying to fund 5M worth of Kwenta, so everyone is scaled back. `((Original goal/pooled total)* pledged sUSD)`will be your allocations worth.
 7. After the Pro-Rata period ends, the open redemption period starts (12 hours in this case). Everyone who maxed out their allocation in the Pro-Rata period is eligible to buy any remaining tokens with any leftover pool tokens they have not withdrawn. **Note:** this period is based on first-come, first-serve.
