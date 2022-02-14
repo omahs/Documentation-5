@@ -4,7 +4,7 @@ description: How to use the Kwenta Aelin Pool
 
 # Kwenta Aelin How To
 
-The Kwenta Aelin raise will be held on Optimism Layer 2. In order to participate pool contributors will need to bridge to/from Optimism.
+The Kwenta Community raise powered by Aelin will be held on Optimism Layer 2. In order to participate pool contributors will need to bridge to/from Optimism.
 
 If you need help bridging funds please see [getting-started-on-optimistic-ethereum.md](../../../onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md "mention")and [why-susd.md](../../../onboard/how-to-start-using-kwenta/why-susd.md "mention")
 
@@ -40,7 +40,7 @@ Here are some terms you will come across while participating in the Kwenta Commu
 | MY $TOKEN BALANCE                 | Your available balance of $TOKEN in your wallet                                                                                                                                                                           | N/A                                                   |
 | MY POOL BALANCE                   | Your available balance of Pool Tokens in your wallet                                                                                                                                                                      | N/A                                                   |
 | UNDERLYING DEAL TOKEN             | The token that a purchaser will end up with at the end of the deal if they accept the terms, after an optional vesting period                                                                                             | $KWENTA                                               |
-| PRO RATA REDEMPTION               | The pro rata redemption period is when a purchaser has the opportunity to max out their allocation for the deal                                                                                                           | 24 Hour Period after the Pool closes                  |
+| PRO RATA REDEMPTION               | The pro rata redemption period is when a purchaser has the opportunity to max out their allocation for the deal                                                                                                           | 48 Hour Period after the Pool closes                  |
 | OPEN REDEMPTION                   | The open redemption period is for purchasers who have maxxed their allocation in the pro rata round                                                                                                                       | 12-hour period directly after the Pro Rata Redemption |
 |                                   |                                                                                                                                                                                                                           |                                                       |
 
