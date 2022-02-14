@@ -8,7 +8,7 @@ Reject all or a portion of the deal. When you Reject you will receive back your 
 
 ### Accept Deal <a href="#accept-deal" id="accept-deal"></a>
 
-When you accept a deal, you have options. You can either accept all, or just a portion (you'll get back the remaining) once it becomes time to accept the Deal you will run into either of the blow scenarios.
+When you accept a deal, you have options. You can either accept all, or just a portion (you'll get back the remaining) once it becomes time to accept the Deal you will run into either of the blow scenarios. Note that you have a 48-hour window to accept the deal.
 
 **Scenario 1: Conversion Ratio 1:1**\
 ****Kwenta pool has $5M sUSD in it and the deal is for $5M sUSD. In this case, for every Pool Token contributors purchased, they'll get a Deal Token.
