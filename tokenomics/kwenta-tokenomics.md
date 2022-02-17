@@ -17,7 +17,7 @@ KWENTA will have an initial **supply of 313,373.** Inflationary rewards will sta
 ![Kwenta Tokenomics Chart](<../.gitbook/assets/Tokenomics (1).png>)
 
 * 30% - Synthetix Stakers
-* 5% - Early Synthe Traders
+* 5% - Early Synth Traders
 * 5% - Investment
 * 25% - Community Growth Fund
 * 15% - Core Contributors
