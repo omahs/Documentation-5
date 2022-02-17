@@ -4,7 +4,7 @@ description: How to contribute to the devDAO
 
 # Developers
 
-Kwenta is a dApp enabling derivates trading with infinite liquidity - powered by the Synthetix protocol. We're community driven and welcome all contribution. We aim to provide a constructive, respectful and fun environment for collaboration.
+Kwenta is a dApp enabling derivates trading with infinite liquidity - powered by the Synthetix protocol. We're community-driven and welcome all contributions. We aim to provide a constructive, respectful and fun environment for collaboration.
 
 If you wish to help out, please first join the **Kwenta devDAO** on our [Discord](https://discord.gg/kwenta) `#community-dev` channel. For more information, see [devDAO](devdao-contribute.md#devdao) below.
 
@@ -28,13 +28,13 @@ Regardless of the reason, the process to begin contributing is very much the sam
 
 ## devDAO <a href="#devdao" id="devdao"></a>
 
-The devDAO has been created specifically to foster open community development and reward community developers. It is an essential piece in our collaborative effort to fully decentralize Kwenta.
+The devDAO has been created specifically to foster open community development and reward community, developers. It is an essential piece in our collaborative effort to fully decentralize Kwenta.
 
 Be welcome to join the Kwenta devDAO on our [Discord](https://discord.gg/kwenta) `#community-dev` channel.
 
-This is where discussions take place, new tickets will be announced by the community PM and assigned to the respective community members and roles on a first come, first served base.
+This is where discussions take place, new tickets will be announced by the community PM and assigned to the respective community members and roles on a first-come, first-served base.
 
-There are different roles depending on the severety of a ticket. As a new community member, you should watch out for _bounty hunter_ tickets are work your way up from there.
+There are different roles depending on the severity of a ticket. As a new community member, you should watch out for _bounty hunter_ tickets are work your way up from there.
 
 ### General Work-Flow
 
@@ -48,7 +48,7 @@ We recommend the following work-flow for contributors:
 
 ### First-time Set-up
 
-First time contributors can get their git environment up and running with these steps:
+First-time contributors can get their git environment up and running with these steps:
 
 1. [Create a fork](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository) and [clone it](https://help.github.com/articles/fork-a-repo/#step-2-create-a-local-clone-of-your-fork) to your local machine.
 2. [Add an _"upstream"_ branch](https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository) that tracks the Kwenta repository using `$ git remote add upstream https://github.com/kwenta/kwenta.git` (pro-tip: [use SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) instead of HTTPS).

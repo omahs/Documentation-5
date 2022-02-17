@@ -2,13 +2,17 @@
 description: What does DeFi accomplish?
 ---
 
-# DeFi: What is it?
+# Introduction
+
+## What are Synthetic Asset
+
+A synthetic asset is **a tokenized derivative that mimics the value of another asset**. Using a synthetic, you can trade $sAMZN (Synthetic AMAZON) instead, which behaves like the underlying asset by tracking its price using data oracles such as Chainlink.
 
 ## What is DeFi?
 
 Decentralized finance (DeFi) is an emerging financial technology built atop the cryptocurrency industry that brings financial services to blockchains like Ethereum and many others.
 
-DeFi creates fair financial tools that anyone can utilize so long an internet connection is available. DeFi supports tools only banks could make available in the past; users can trade derivatives, options, borrow/lend funds, and often earn high interest.
+DeFi creates fair financial tools that anyone can utilize so long an internet connection is available. DeFi supports tools only banks could make available in the past; users can trade derivatives, options, borrow/lend funds.
 
 ## Benefits of DeFi?
 

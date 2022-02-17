@@ -2,7 +2,7 @@
 description: Discover the Shorting mechanism on Kwenta
 ---
 
-# Shorting Explained
+# Shorting
 
 ## Shorting
 
@@ -24,7 +24,7 @@ Shorting is only available on **Optimism Layer 2.**
 
 ### Example of the mechanism
 
-Essentially, shorts are fixed debt, over-collaterised loans using [sUSD](../onboard/how-to-start-using-kwenta/why-susd.md#why-do-i-need-susd) as collateral.&#x20;
+Essentially, shorts are fixed debt, over-collaterised loans using [sUSD](../../onboard/how-to-start-using-kwenta/why-susd.md#why-do-i-need-susd) as collateral.&#x20;
 
 In order to open a short position, the trader deposits sUSD and can select the respective synth they wish to short. All positions have a collateralisation requirement. For example:&#x20;
 

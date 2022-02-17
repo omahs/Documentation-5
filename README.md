@@ -1,6 +1,10 @@
+---
+description: About Kwenta
+---
+
 # 🥂 Welcome to Kwenta
 
-Kwenta is a decentralized trading platform enabling anyone to long or short popular assets with leverage.
+Kwenta is a decentralized derivatives trading platform, live on **Optimism**, offering real-world and on-chain synthetic assets using the power of the Synthetix protocol.
 
 With these docs, you can learn how to start using Kwenta, navigate the platform, and participate in the DAO. &#x20;
 
@@ -10,7 +14,25 @@ With these docs, you can learn how to start using Kwenta, navigate the platform,
 [how-to-start-using-kwenta](onboard/how-to-start-using-kwenta/)
 {% endcontent-ref %}
 
-### DAO Guide
+{% content-ref url="tokenomics/sovereignty/" %}
+[sovereignty](tokenomics/sovereignty/)
+{% endcontent-ref %}
+
+### Products
+
+{% content-ref url="products/futures.md" %}
+[futures.md](products/futures.md)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+### Decentralized Organization (DAO)
 
 {% content-ref url="dao/governance-framework.md" %}
 [governance-framework.md](dao/governance-framework.md)
@@ -20,14 +42,18 @@ With these docs, you can learn how to start using Kwenta, navigate the platform,
 [dao-roles](dao/dao-roles/)
 {% endcontent-ref %}
 
+{% content-ref url="dao/contribute/" %}
+[contribute](dao/contribute/)
+{% endcontent-ref %}
+
 #### Other Resources
 
 {% content-ref url="tokenomics/kwenta-tokenomics.md" %}
 [kwenta-tokenomics.md](tokenomics/kwenta-tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/exchange-fees.md" %}
-[exchange-fees.md](tokenomics/exchange-fees.md)
+{% content-ref url="products/exchange-fees.md" %}
+[exchange-fees.md](products/exchange-fees.md)
 {% endcontent-ref %}
 
 {% content-ref url="resources/smart-contracts.md" %}

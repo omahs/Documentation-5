@@ -5,14 +5,16 @@
 ## Onboard
 
 * [How to start using Kwenta](onboard/how-to-start-using-kwenta/README.md)
-  * [DeFi: What is it?](onboard/how-to-start-using-kwenta/defi-what-is-it-how-do-i-start.md)
+  * [Introduction](onboard/how-to-start-using-kwenta/defi-what-is-it-how-do-i-start.md)
   * [Getting started on Optimism](onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md)
   * [How to get sUSD](onboard/how-to-start-using-kwenta/why-susd.md)
 
-## Shorting
+## Products
 
-* [Shorting Explained](shorting/what-is-shorting.md)
-* [Shorting Tutorial](shorting/shorting-tutorial.md)
+* [Futures](products/futures.md)
+* [Shorting](products/what-is-shorting/README.md)
+  * [Shorting Tutorial](products/what-is-shorting/shorting-tutorial.md)
+* [Fee Structure](products/exchange-fees.md)
 
 ## DAO
 
@@ -31,6 +33,7 @@
 * [Contribute](dao/contribute/README.md)
   * [Documentation](dao/contribute/contribute.md)
   * [Developers](dao/contribute/devdao-contribute.md)
+    * [Troubleshooting](dao/contribute/devdao-contribute/troubleshooting.md)
     * [Testing](dao/contribute/devdao-contribute/testing.md)
 
 ## Tokenomics
@@ -48,10 +51,17 @@
   * [Trading Comp Round 2](tokenomics/sovereignty/trading-comp-round-2.md)
   * [Kwenta V2](tokenomics/sovereignty/kwenta-v2.md)
   * [Token Launch](tokenomics/sovereignty/token-launch.md)
-* [Exchange Fees](tokenomics/exchange-fees.md)
+* [Volume Source Fee](tokenomics/volume-source-fee.md)
 
 ## Resources
 
-* [Fee Reclamation](resources/fee-reclamation.md)
+* [L2 Perpetual Contracts](resources/l2-perpetual-contracts/README.md)
+  * [sETH](resources/l2-perpetual-contracts/seth.md)
+  * [sBTC](resources/l2-perpetual-contracts/sbtc.md)
+  * [sLINK](resources/l2-perpetual-contracts/slink.md)
+  * [sSOL](resources/l2-perpetual-contracts/ssol.md)
+* [Roadmap](resources/roadmap.md)
+* [Oracles](resources/oracles.md)
 * [Smart Contracts](resources/smart-contracts.md)
+* [Fee Reclamation](resources/fee-reclamation.md)
 * [GitHub](https://github.com/Kwenta)
