@@ -51,6 +51,6 @@ For more technical information about dynamic exchange fees, refer directly to th
 
 ### Future Developments
 
-#### Integration of Source Fee
+#### Integration of Volume Source Fee
 
-A current Synthetix Improvement Proposal draft ([SIP-203](https://sips.synthetix.io/sips/sip-203/)) outlines a possible split of the exchange fee into a Protocol Fee and Source Fee. By integrating a sourcing fee, it would give Kwenta stakers access to a percentage of the fees generated on the Kwenta platform while simultaneously generating a stable income.
+A current Synthetix Improvement Proposal draft ([SIP-203](https://sips.synthetix.io/sips/sip-203/)) outlines a possible split of the exchange fee into a Protocol Fee and Source Fee. By integrating a sourcing fee, it would give Kwenta stakers access to a percentage of the fees generated on the Kwenta platform while simultaneously generating a stable income. For more information, see our [Volume Source Fee](../tokenomics/volume-source-fee.md) article.
