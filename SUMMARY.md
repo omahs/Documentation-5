@@ -11,9 +11,11 @@
 
 ## Products
 
+* [Swaps](products/swaps.md)
 * [Futures](products/futures.md)
 * [Shorting](products/what-is-shorting/README.md)
   * [Shorting Tutorial](products/what-is-shorting/shorting-tutorial.md)
+* [Kwenta V2](products/kwenta-v2.md)
 * [Fee Structure](products/exchange-fees.md)
 
 ## DAO

@@ -12,7 +12,7 @@ Further reading: [KIP-4: Kwenta Tokenomics](https://kips.kwenta.io/kips/kip-4/)
 
 ## Supply
 
-KWENTA will have an initial **supply of 313,373.** Inflationary rewards will start at 60% APY in KWENTA and linearly deplete to 1% indefinitely over the course of 4 years. This will result in a total supply of 1,062,486.81 KWENTA at the end of 4 years. and will be distributed as follows:
+KWENTA will have an initial **supply of 313,373.** Weekly emissions will start at 14,463.37 $KWENTA the first week and drop to around 200 $KWENTA (1% APY) at the end of four years. Resulting in a total supply at the end of four years of 1,009,409.43.
 
 ![Kwenta Tokenomics Chart](<../.gitbook/assets/Tokenomics (1).png>)
 
@@ -30,6 +30,10 @@ KWENTA will have an initial **supply of 313,373.** Inflationary rewards will sta
 ## Vesting Mechanism
 
 KWENTA printed via inflation will undergo a 1-year lock-up period. The lock-up mechanism will begin with an 80% fee for vesting KWENTA early which will decay linearly. If tokens are vested early, the percentage of tokens that are still applicable to the fee will be burned. After one year, the fee would reach 0% and no tokens would be burned when vesting KWENTA.
+
+{% hint style="info" %}
+Ex. If you have 1 $KWENTA, and its vesting, and you vest immediately, you’ll be left with 0.2 $KWENTA, if you wait a year and you vest, you get 1 $KWENTA
+{% endhint %}
 
 ## Distribution
 
