@@ -9,3 +9,5 @@ The new Kwenta V2 UI has been carefully crafted using futures traders’ direct 
 ![](../.gitbook/assets/image-4.png) ![](../.gitbook/assets/image-1.png)
 
 ### Main Kwenta Dashboard
+
+![](../.gitbook/assets/Dashboard\_-\_Light-2.png) ![](../.gitbook/assets/Dashboard\_-\_Dark-2.png)
