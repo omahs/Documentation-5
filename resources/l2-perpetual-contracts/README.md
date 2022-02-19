@@ -12,12 +12,12 @@ New contract pairs will be added in time, and an open market creation tool is be
 
 There are a number of high-level components required for the implementation of synthetic perpetual futures on Synthetix, they are outlined below:
 
-* [Market and Position Parameters](https://sips.synthetix.io/sips/sip-80#market-and-position-parameters)
-* [Leverage and Margins](https://sips.synthetix.io/sips/sip-80#leverage-and-margins)
-* [Exchange Fees](https://sips.synthetix.io/sips/sip-80#exchange-fees)
-* [Skew Funding Rate](https://sips.synthetix.io/sips/sip-80#skew-funding-rate)
-* [Aggregate Debt Calculation](https://sips.synthetix.io/sips/sip-80#aggregate-debt-calculation)
-* [Liquidations and Keepers](https://sips.synthetix.io/sips/sip-80#liquidations-and-keepers)
+* [Market and Position Parameters](./#market-and-position-parameters)
+* [Leverage and Margins](./#leverage-and-margins)
+* [Exchange Fees](./#exchange-fees)
+* [Skew Funding Rate](./#skew-funding-rate)
+* [Aggregate Debt Calculation](./#aggregate-debt-calculation)
+* [Liquidations and Keeper](./#liquidations-and-keepers)s
 
 Each of these components will be detailed below in the technical specification. Together they enable the system to offer leveraged trading while charging a funding rate to reduce market skew and tracking the impact to the debt pool of each futures market.
 
@@ -50,7 +50,7 @@ Each market, implemented by a specific smart contract, is differentiated primari
 
 ***
 
-**Leverage and Margins**
+### **Leverage and Margins**
 
 When a position is opened, the account-holder chooses their initial leverage rate and margin, from which the position size is computed. As profit is computed against the notional value of a position, higher leverage increases the position's liquidation risk.
 
@@ -64,19 +64,16 @@ It is important to note that the granularity and frequency of oracle price updat
 
 When a position is closed, the funds in its margin are settled. After profit and funding are computed, the remaining margin of $$\(m\)$$ sUSD will be minted into the account that created the position, while any losses out of the initial margin $$(\(max(m_e - m, 0)\))$$, will be minted into the fee pool.
 
-**Exchange Fees**
+### **Exchange Fees**
 
 Users pay a fee whenever they open or increase a position. However, we wish to incentivize reduction of skew, so we distinguish between maker and taker fees. A maker is someone reducing skew and a taker is someone increasing it, and so we charge makers less than takers, possibly even zero insofar as this is possible in the presence of front-running. This fee will be charged out of the user's remaining margin. If the user has insufficient margin remaining to cover the fee, then the transaction should revert unless they deposit more margin or make some profit. As the fee diminishes a user's margin, and is charged after order confirmation, they should be aware that it will slightly increase their effective leverage.
 
 The fees will be denoted by the symbol $$\(\phi\)$$ as follows:
 
-| Symbol           | Description      | Definition | Notes                                                                                                                                                                                   |
-| ---------------- | ---------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| $$\(\phi_{t}\)$$ | Taker fee rate   | -          | Charged against the notional value of orders increasing the skew. Initially, $$\(\phi_{t} = 0.3%\)$$.                                                                                   |
-| $$\(\phi_{m}\)$$ | Maker fee rate   | -          | Charged against the notional value of orders reducing the skew. Initially, $$\(\phi_{m} = 0.1%\)$$.                                                                                     |
-| $$\(\phi_{c}\)$$ | Closure fee rate | -          | Charged against the notional value of orders reducing in size. Generally, we will have $$\(\phi_{c} = 0\)$$, but this may rise if it is necessary to combat front-running, for example. |
-
-We will generally maintain $$\(\phi*{m} \leq \phi*{t}\)$$.
+| Symbol           | Description    | Definition | Notes                                                                                                 |
+| ---------------- | -------------- | ---------- | ----------------------------------------------------------------------------------------------------- |
+| $$\(\phi_{t}\)$$ | Taker fee rate | -          | Charged against the notional value of orders increasing the skew. Initially, $$\(\phi_{t} = 0.3%\)$$. |
+| $$\(\phi_{m}\)$$ | Maker fee rate | -          | Charged against the notional value of orders reducing the skew. Initially, $$\(\phi_{m} = 0.1%\)$$.   |
 
 There are several cases of interest here, the fee charged in each case is as follows:
 
@@ -89,7 +86,7 @@ There are several cases of interest here, the fee charged in each case is as fol
 
 Note that no fee will generally be charged for closing or reducing the size of a position, so that funding rate arbitrage is more predictable even as skew changes, and in particular more profitable when opening a position on the lighter side of the market. See the funding rate section for further details.
 
-**Skew Funding Rate**
+### **Skew Funding Rate**
 
 Whenever the market is imbalanced in the sense that there is more open value on one side, SNX holders take on market risk. At a given skew level, SNX holders take on exposure equal to $$\(K \ (p_2 - p_1)\)$$ as the price moves from $$\(p_1\) to \(p_2\)$$.
 
@@ -110,7 +107,7 @@ As the SNX debt pool is the counterparty to every position, it is either the pay
 
 This funding flow increases directly as the skew increases, and also as the funding rate increases, which itself increases linearly with the skew (up to $$\(W_{max}\)$$). As the fee pool is party to $$\(Q\)$$ in open positions, its percentage return from funding is $$\(\frac{- i K}{Q} \propto W^2\)$$, so it grows with the square of the proportional skew. This provides accelerating compensation as the risk increases.
 
-**Accrued Funding Calculation**
+### **Accrued Funding Calculation**
 
 Funding accrues continuously, so any time the skew or base asset price changes, so too does the funding flow for all open positions. This may occur many times between the open and close of each position. The expense of constantly updating all open positions is prohibitive, so instead any time the skew changes, the total accrued funding per base currency unit will be recorded, and the individual funding flow for each position computed from this.
 
@@ -172,7 +169,7 @@ $$\[t_{last} \ \leftarrow \ now\] \[j^c \ \leftarrow \ \begin{cases} 0 & \ \text
 
 ***
 
-**Aggregate Debt Calculation**
+### **Aggregate Debt Calculation**
 
 Each open position contributes to the overall system debt of Synthetix. When a position is opened, it accounts for a debt quantity exactly equal to the value of its initial margin. That same value of sUSD is burnt upon the creation of the position. As the price of the base asset moves, however, the position’s remaining margin changes, and so too does its debt contribution. In order to efficiently aggregate all these, each market keeps track of its overall debt contribution, which is updated whenever positions are opened or closed.
 
@@ -195,7 +192,7 @@ Where $$\(\delta_e := m_e - q_e (p_e + F_j)\)$$ and $$\(\delta_e'\)$$ is its rec
 
 In this way the aggregate debt is efficiently computable at any time.
 
-**Liquidations and Keepers**
+### **Liquidations and Keepers**
 
 Once a position's remaining margin is exhausted, it must be closed in a timely fashion, so that its contribution to the market skew and to the overall debt pool is accounted for as rapidly as possible, necessary for accuracy in funding rate and minting computations.
 
