@@ -14,9 +14,11 @@ Further reading: [KIP-2: Kwenta Governance Framework](https://kips.kwenta.io/kip
 
 ## DAO Structure
 
+![](../.gitbook/assets/KwentaDAO.png)
+
 Kwenta governance will follow a democratic structure with multiple semi-independent governing bodies, each with its own goals and operational structure.
 
-To learn about the various roles in the Kwenta DAO, visit the DAO Roles section.
+To learn about the various roles in the Kwenta DAO, visit the [DAO Roles](dao-roles/) section.
 
 ## Kwenta Improvement Proposals (KIP)
 
