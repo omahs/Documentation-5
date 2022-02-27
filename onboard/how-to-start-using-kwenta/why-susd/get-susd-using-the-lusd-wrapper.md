@@ -12,7 +12,9 @@ On Ethereum Mainnet, head over to [https://app.1inch.io/#/1/swap/ETH/LUSD](https
 
 ### 2. Bridge LUSD to L2 (Optimism)
 
-Head over to [https://gateway.optimism.io/](https://gateway.optimism.io) connect your wallet and select LUSD from the token list, the amount to transfer. APPROVE the transaction and then DEPOSIT.![](../../../.gitbook/assets/image-6.png)
+Head over to [https://gateway.optimism.io/](https://gateway.optimism.io) connect your wallet and select LUSD from the token list, the amount to transfer. APPROVE the transaction and then DEPOSIT.\
+\
+![](../../../.gitbook/assets/image-6.png)
 
 You'll need to wait for up to 20 minutes (normally its much less) until you see your deposit reflected on L2
 
