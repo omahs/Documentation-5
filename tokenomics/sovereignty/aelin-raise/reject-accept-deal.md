@@ -18,7 +18,7 @@ Ex. A contributor who allocated $5000 sUSD to the Pool will receive $5000 sUSD w
 {% endhint %}
 
 **Scenario 2: Conversion Ratio is less than 1:1** (Oversubscribed Uncapped Pool)\
-The Kwenta pool has $10M sUSD in it and the deal is for $5M sUSD. In this case, for every Pool Token, contributors get 0.5 Deal Tokens also known as deallocation. You may withdraw your remaining amount at any time or use it for the [Open Redemption Period](./#open-redemption-period).
+The Kwenta pool has $10M sUSD in it and the deal is for $5M sUSD. In this case, for every Pool Token, contributors get 0.5 Deal Tokens also known as deallocation. You may withdraw your remaining amount at any time or use it for the [Open Redemption Period](reject-accept-deal.md#open-redemption-period).
 
 {% hint style="info" %}
 Ex. A contributor who allocated $5000 sUSD to the Pool will receive $2500 sUSD worth of Kwenta as the pool is oversubscribed by 50%.
