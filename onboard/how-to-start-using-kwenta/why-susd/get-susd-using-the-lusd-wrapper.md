@@ -33,3 +33,13 @@ Once your LUSD has been deposited into L2 (Optimistic Ethereum) you can go ahead
 5. Now you should be able to select LUSD as From and sUSD as To. Input the amount you want to wrap, approve and Swap!
 
 ![](../../../.gitbook/assets/image-10.png)
+
+You can make sure you are using the wrapper by selecting route at the bottom of the swap screen.
+
+![](<../../../.gitbook/assets/Screen Shot 2022-02-26 at 8.59.01 PM.png>)\
+
+
+You'll get a display of the route the transaction will take similar to this&#x20;
+
+![](<../../../.gitbook/assets/Screen Shot 2022-02-26 at 8.58.42 PM.png>)
+
