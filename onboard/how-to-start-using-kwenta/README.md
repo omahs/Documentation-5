@@ -16,7 +16,7 @@
 You will need:
 
 * Web3 wallet (See [Getting Started with DeFi](defi-what-is-it-how-do-i-start.md#benefits-of-defi) for help)
-* ETH for gas and [sUSD](why-susd.md) to trade on the [Optimism layer 2 network](getting-started-on-optimistic-ethereum.md)
+* ETH for gas and [sUSD](why-susd/) to trade on the [Optimism layer 2 network](getting-started-on-optimistic-ethereum.md)
 * Start trading!
 
 > **Kwenta works different from traditional exchanges as it:**
@@ -24,7 +24,7 @@ You will need:
 > 1. Price feeds come from decentralized Chainlink oracles
 > 2. There is no order book
 >
-> Instead, trades executed on Kwenta leverage the Synthetix debt pool (a huge pool of liquidity). This ensures that traders have the liquidity they need at any price point to execute trades. This model requires a liquid and immutable stable coin such as [sUSD](why-susd.md).
+> Instead, trades executed on Kwenta leverage the Synthetix debt pool (a huge pool of liquidity). This ensures that traders have the liquidity they need at any price point to execute trades. This model requires a liquid and immutable stable coin such as [sUSD](why-susd/).
 
 ## To start trading, visit Kwenta
 

@@ -8,21 +8,21 @@ description: Explains why Kwenta uses and why traders need sUSD to utilize Kwent
 
 Kwenta quotes its asset prices against sUSD. Traders that want to purchase synthetic assets, open a Futures position, or leverage any of the financial tools provided by Kwenta will need to do so in sUSD.
 
-Supporting sUSD helps Kwenta stay true to its decentralized ethos. sUSD is a fully decentralized stablecoin minted by [Synthetix](https://synthetix.io/), a decentralized liquidity protocol. sUSD, because of its decentralized issuance, cannot be muted, blocked, or stopped.
+Supporting sUSD helps Kwenta stay true to its decentralized ethos. sUSD is a fully decentralized stablecoin minted by [Synthetix](https://synthetix.io), a decentralized liquidity protocol. sUSD, because of its decentralized issuance, cannot be muted, blocked, or stopped.
 
 ## Getting sUSD on Optimistic Ethereum
 
 {% hint style="info" %}
-In order to be able to get (swap) sUSD on Optimism you must have already bridged eligible ERC-20 tokens via a bridge. A tutorial how to use bridges [can be found here](getting-started-on-optimistic-ethereum.md).
+In order to be able to get (swap) sUSD on Optimism you must have already bridged eligible ERC-20 tokens via a bridge. A tutorial how to use bridges [can be found here](../getting-started-on-optimistic-ethereum.md).
 {% endhint %}
 
 First, head over to [Uniswap](https://app.uniswap.org/#/swap).
 
-![Uniswap Screen](<../../.gitbook/assets/onboard/uniswap_main.png>)
+![Uniswap Screen](../../../.gitbook/assets/onboard/uniswap\_main.png)
 
 Connect your web3 wallet to Uniswap and make sure the `Optimistic Ethereum` network in your wallet is selected.
 
-![](<../../.gitbook/assets/onboard/metamask_networks.png>)
+![](../../../.gitbook/assets/onboard/metamask\_networks.png)
 
 Swap from any supported ERC-20 token to sUSD
 
@@ -30,6 +30,6 @@ Swap from any supported ERC-20 token to sUSD
 Remember to always keep some ETH in your wallet to pay for transaction fees
 {% endhint %}
 
-![Swap Interface for Uniswap](<../../.gitbook/assets/onboard/uniswap_swap.png>)
+![Swap Interface for Uniswap](../../../.gitbook/assets/onboard/uniswap\_swap.png)
 
 You now have sUSD to trade on [Kwenta](https://kwenta.io).

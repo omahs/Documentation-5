@@ -6,7 +6,7 @@ description: How to use the Kwenta Aelin Pool
 
 The Kwenta Community raise powered by Aelin will be held on Optimism Layer 2. In order to participate pool contributors will need to bridge to/from Optimism.
 
-If you need help bridging funds please see [getting-started-on-optimistic-ethereum.md](../../../onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md "mention")and [why-susd.md](../../../onboard/how-to-start-using-kwenta/why-susd.md "mention")
+If you need help bridging funds please see [getting-started-on-optimistic-ethereum.md](../../../onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md "mention")and [why-susd](../../../onboard/how-to-start-using-kwenta/why-susd/ "mention")
 
 {% hint style="info" %}
 If you are familiar with bridges you can use any of the options below to bridge funds to Optimism Layer 2.

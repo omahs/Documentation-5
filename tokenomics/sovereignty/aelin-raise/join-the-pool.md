@@ -4,7 +4,7 @@ For those interested in participating in the Kwenta Aelin raise, you will need:
 
 * Web 3 Wallet see [kwenta-aelin-how-to.md](kwenta-aelin-how-to.md "mention")
 * ETH on Layer 2 Optimism [getting-started-on-optimistic-ethereum.md](../../../onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md "mention")
-* sUSD on Layer 2 Optimism [why-susd.md](../../../onboard/how-to-start-using-kwenta/why-susd.md "mention")
+* sUSD on Layer 2 Optimism [why-susd](../../../onboard/how-to-start-using-kwenta/why-susd/ "mention")
 
 Once you have what you need head over to the [Kwenta Aelin raise pool](https://raise.kwenta.io) to begin.
 

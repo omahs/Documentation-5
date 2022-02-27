@@ -7,7 +7,8 @@
 * [How to start using Kwenta](onboard/how-to-start-using-kwenta/README.md)
   * [Introduction](onboard/how-to-start-using-kwenta/defi-what-is-it-how-do-i-start.md)
   * [Getting started on Optimism](onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md)
-  * [How to get sUSD](onboard/how-to-start-using-kwenta/why-susd.md)
+  * [How to get sUSD](onboard/how-to-start-using-kwenta/why-susd/README.md)
+    * [Get sUSD using the lUSD Wrapper](onboard/how-to-start-using-kwenta/why-susd/get-susd-using-the-lusd-wrapper.md)
 
 ## Products
 
