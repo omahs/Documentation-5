@@ -9,6 +9,6 @@ An overview of the deal is below.
 5. The Kwenta treasuryDAO council finalizes the deal by depositing 15,657 $vKWENTA into the deal contract
 6. The Pro Rata redemption period starts (48 hours in this case): This is where you have a chance to confirm your allocation of the deal. In this case, there is 10M of capital trying to fund 5M worth of Kwenta, so everyone is scaled back. `((Original goal/pooled total)* pledged sUSD)`will be your allocations worth.
 7. After the Pro-Rata period ends, the open redemption period starts (12 hours in this case). Everyone who maxed out their allocation in the Pro-Rata period is eligible to buy any remaining tokens with any leftover pool tokens they have not withdrawn. **Note:** this period is based on first-come, first-serve.
-8. After the open redemption period ends the vesting cliff and then the vesting period starts. If there is no cliff or vesting period, as is the case with this deal, purchasers who redeemed their pool tokens for deal tokens may claim their $KWENTA immediately.
+8. After the open redemption period ends the vesting cliff and then the vesting period starts. If there is no cliff or vesting period, as is the case with this deal, purchasers who redeemed their pool tokens for deal tokens may claim their $vKWENTA immediately.
 
 Note that the sponsor is not charging a fee for this pool, but if there was a fee it would be charged at step 6 (Pro-Rata period) when purchasers accept the deal. If a purchaser never accepts the deal and withdraws in step 6 they may withdraw their funds with no fee incurred.
