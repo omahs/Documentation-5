@@ -1,5 +1,5 @@
 ---
-description: Week 7 (March 28th - April 3rd)
+description: Week 7 (tbd)
 ---
 
 # Kwenta V2

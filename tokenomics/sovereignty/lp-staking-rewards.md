@@ -1,5 +1,5 @@
 ---
-description: Week 5 (March 14th - March 20th)
+description: Week 5 (tbd)
 ---
 
 # LP & Staking Rewards

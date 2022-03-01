@@ -1,5 +1,5 @@
 ---
-description: Week 3 & 4 (Feb 28st - March 13th)
+description: Week 3 & 4 (tbd)
 ---
 
 # SNX Staking Rewards

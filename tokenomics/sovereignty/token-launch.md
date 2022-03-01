@@ -1,5 +1,5 @@
 ---
-description: Week 8 (April 4th - 10th)
+description: Week 8 (tbd)
 ---
 
 # Token Launch

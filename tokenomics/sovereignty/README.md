@@ -18,13 +18,13 @@ Kwenta will be distributing a total of 23,675 tokens (7.55% of the initial suppl
 [aelin-raise](aelin-raise/)
 {% endcontent-ref %}
 
-#### Week 3 & 4 (Feb 28st - March 13th)
+#### Week 3 & 4 (tbd)
 
 {% content-ref url="snx-staking-rewards.md" %}
 [snx-staking-rewards.md](snx-staking-rewards.md)
 {% endcontent-ref %}
 
-#### Week 5 (March 14th - March 20th)
+#### Week 5 (tbd)
 
 {% content-ref url="lp-staking-rewards.md" %}
 [lp-staking-rewards.md](lp-staking-rewards.md)
@@ -34,19 +34,19 @@ Kwenta will be distributing a total of 23,675 tokens (7.55% of the initial suppl
 [trading-comp-round-1.md](trading-comp-round-1.md)
 {% endcontent-ref %}
 
-#### Week 6 (March 21st - March 27th)
+#### Week 6 (tbd)
 
 {% content-ref url="trading-comp-round-2.md" %}
 [trading-comp-round-2.md](trading-comp-round-2.md)
 {% endcontent-ref %}
 
-#### Week 7 (March 28th - April 3rd)
+#### Week 7 (tbd)
 
 {% content-ref url="kwenta-v2.md" %}
 [kwenta-v2.md](kwenta-v2.md)
 {% endcontent-ref %}
 
-#### Week 8 (April 4th - April 10th)
+#### Week 8 (tbd)
 
 {% content-ref url="token-launch.md" %}
 [token-launch.md](token-launch.md)
