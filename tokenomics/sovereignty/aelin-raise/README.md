@@ -9,7 +9,7 @@ The Kwenta treasuryDAO will raise funds via [Aelin](https://aelin.xyz) to fuel D
 Kwenta will sell 5% of the total token supply pre-inflation (15,668.65 Kwenta out of 313,373 Kwenta) for 5M sUSD, placing the total supply at a 100m USD valuation.
 
 {% hint style="success" %}
-The pool is live [here on Aelin](https://aelin.xyz/pools/0x20369baa917bd1867bdafc24d72458ac777c9a2c). Make sure you are connected to Optimism layer 2!&#x20;
+The pool is live [here on Aelin](https://app.aelin.xyz/pools/0x20369baa917bd1867bdafc24d72458ac777c9a2c/optimism). Make sure you are connected to Optimism layer 2!&#x20;
 {% endhint %}
 
 The pool will accept **sUSD** and will be open for a period of 2 weeks starting February 14th, 2022.

@@ -1,6 +1,6 @@
 # Claiming Your Allocation
 
-Kwenta Community Raise closes on Sunday, Feb 27th at 4:45 PM UTC. Pool Contributors can head back to: [https://aelin.xyz/pools/0x20369baa917bd1867bdafc24d72458ac777c9a2c/optimism](https://aelin.xyz/pools/0x20369baa917bd1867bdafc24d72458ac777c9a2c/optimism)\
+Kwenta Community Raise closes on Sunday, Feb 27th at 4:45 PM UTC. Pool Contributors can head back to: [https://app.aelin.xyz/pools/0x20369baa917bd1867bdafc24d72458ac777c9a2c/optimism](https://app.aelin.xyz/pools/0x20369baa917bd1867bdafc24d72458ac777c9a2c/optimism)\
 to either accept or reject their allocation&#x20;
 
 1. Connect the wallet you used to initially pledge sUSD to the Kwenta Community Pool.![](../../../../.gitbook/assets/Animation.gif)
