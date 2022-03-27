@@ -86,7 +86,7 @@ There are several cases of interest here, the fee charged in each case is as fol
 
 Note that no fee will generally be charged for closing or reducing the size of a position, so that funding rate arbitrage is more predictable even as skew changes, and in particular more profitable when opening a position on the lighter side of the market. See the funding rate section for further details.
 
-### **Skew Funding Rate**
+### **Skew Funding Rate** <a href="#skew_funding" id="skew_funding"></a>
 
 Whenever the market is imbalanced in the sense that there is more open value on one side, SNX holders take on market risk. At a given skew level, SNX holders take on exposure equal to $$\(K \ (p_2 - p_1)\)$$ as the price moves from $$\(p_1\) to \(p_2\)$$.
 

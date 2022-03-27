@@ -20,8 +20,8 @@ With these docs, you can learn how to start using Kwenta, navigate the platform,
 
 ### Products
 
-{% content-ref url="products/futures.md" %}
-[futures.md](products/futures.md)
+{% content-ref url="products/futures/" %}
+[futures](products/futures/)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
