@@ -8,7 +8,7 @@
 | Initial Margin    | tbd                                                                                                        |
 | Liquidation Fee   | 50bps on notional value                                                                                    |
 | Funding Interval  | Continues                                                                                                  |
-| Transactions Fees | <p>.% maker fee<br>.% taker fee</p>                                                                        |
+| Transactions Fees | <p>100 bps  maker fee<br>100 bps taker fee</p>                                                             |
 | Underlying Index  | [Chainlink Price Feed](https://optimistic.etherscan.io/address/0x13e3Ee699D1909E989722E753853AE30b17e08c5) |
 | Margin            | Isolated                                                                                                   |
 
