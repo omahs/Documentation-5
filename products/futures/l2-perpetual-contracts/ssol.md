@@ -1,8 +1,8 @@
-# sETH
+# sSOL
 
 |                   |                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------- |
-| Symbol            | sETH                                                                                                       |
+| Symbol            | sSOL                                                                                                       |
 | Expiry Date       | Perpetual                                                                                                  |
 | Quote Asset       | sUSD                                                                                                       |
 | Initial Margin    | tbd                                                                                                        |

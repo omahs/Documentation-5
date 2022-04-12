@@ -1,8 +1,8 @@
-# sETH
+# sAVAX
 
 |                   |                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------- |
-| Symbol            | sETH                                                                                                       |
+| Symbol            | sAVAX                                                                                                      |
 | Expiry Date       | Perpetual                                                                                                  |
 | Quote Asset       | sUSD                                                                                                       |
 | Initial Margin    | tbd                                                                                                        |

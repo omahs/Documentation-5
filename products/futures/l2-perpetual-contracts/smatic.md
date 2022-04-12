@@ -1,8 +1,8 @@
-# sETH
+# sMATIC
 
 |                   |                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------- |
-| Symbol            | sETH                                                                                                       |
+| Symbol            | sMATIC                                                                                                     |
 | Expiry Date       | Perpetual                                                                                                  |
 | Quote Asset       | sUSD                                                                                                       |
 | Initial Margin    | tbd                                                                                                        |

@@ -1,8 +1,8 @@
-# sETH
+# sXAG
 
 |                   |                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------- |
-| Symbol            | sETH                                                                                                       |
+| Symbol            | sXAG                                                                                                       |
 | Expiry Date       | Perpetual                                                                                                  |
 | Quote Asset       | sUSD                                                                                                       |
 | Initial Margin    | tbd                                                                                                        |

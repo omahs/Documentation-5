@@ -1,8 +1,8 @@
-# sETH
+# sEUR
 
 |                   |                                                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------- |
-| Symbol            | sETH                                                                                                       |
+| Symbol            | sEUR                                                                                                       |
 | Expiry Date       | Perpetual                                                                                                  |
 | Quote Asset       | sUSD                                                                                                       |
 | Initial Margin    | tbd                                                                                                        |
