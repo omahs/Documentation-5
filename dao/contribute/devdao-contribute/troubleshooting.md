@@ -8,6 +8,66 @@ If you run into issues with the dev environment for the Kwenta dApp, please read
 
 Please make sure you are on the latest stable (LTE) versions of `nodejs` and `npm`.
 
+### NPM issues with webpack
+
+When introducing new packages or updating packages, users reported errors, similar to these below:
+
+```
+platschi@platschi kwenta % npm run dev
+[...]
+TypeError: Cannot read properties of undefined (reading 'tap')
+    at /Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/@next/react-refresh-utils/ReactRefreshWebpackPlugin.js:100:61
+    at SyncHook.eval [as call] (eval at create (/Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/tapable/lib/HookCodeFactory.js:19:10), <anonymous>:7:1)
+    at SyncHook.lazyCompileHook (/Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/tapable/lib/Hook.js:154:20)
+    at Compiler.newCompilation (/Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/next/node_modules/webpack/lib/Compiler.js:631:26)
+    at /Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/next/node_modules/webpack/lib/Compiler.js:667:29
+    at AsyncSeriesHook.eval [as callAsync] (eval at create (/Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:6:1)
+    at AsyncSeriesHook.lazyCompileHook (/Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/tapable/lib/Hook.js:154:20)
+    at Compiler.compile (/Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/next/node_modules/webpack/lib/Compiler.js:662:28)
+    at /Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/next/node_modules/webpack/lib/Watching.js:77:18
+    at AsyncSeriesHook.eval [as callAsync] (eval at create (/Users/platschi/Templates/devDAO/leovct/kwenta/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
+```
+
+```
+platschi@platschi kwenta % npm i
+npm WARN ERESOLVE overriding peer dependency
+npm ERR! code ERESOLVE
+npm ERR! ERESOLVE could not resolve
+npm ERR! 
+npm ERR! While resolving: eslint-config-react-app@6.0.0
+npm ERR! Found: eslint-plugin-testing-library@5.3.1
+npm ERR! node_modules/eslint-plugin-testing-library
+npm ERR!   dev eslint-plugin-testing-library@"^5.1.0" from the root project
+npm ERR! 
+npm ERR! Could not resolve dependency:
+npm ERR! peerOptional eslint-plugin-testing-library@"^3.9.0" from eslint-config-react-app@6.0.0
+npm ERR! node_modules/eslint-config-react-app
+npm ERR!   dev eslint-config-react-app@"6.0.0" from the root project
+npm ERR! 
+npm ERR! Conflicting peer dependency: eslint-plugin-testing-library@3.10.2
+npm ERR! node_modules/eslint-plugin-testing-library
+npm ERR!   peerOptional eslint-plugin-testing-library@"^3.9.0" from eslint-config-react-app@6.0.0
+npm ERR!   node_modules/eslint-config-react-app
+npm ERR!     dev eslint-config-react-app@"6.0.0" from the root project
+npm ERR! 
+npm ERR! Fix the upstream dependency conflict, or retry
+npm ERR! this command with --force, or --legacy-peer-deps
+npm ERR! to accept an incorrect (and potentially broken) dependency resolution.
+npm ERR! 
+npm ERR! See /Users/platschi/.npm/eresolve-report.txt for a full report.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/platschi/.npm/_logs/2022-04-20T17_24_43_242Z-debug-0.log
+```
+
+One temporary solution here is to do the following:
+
+```
+rm -r nodes_modules
+rm package-lock.json
+npm i --legacy-peer-deps
+```
+
 ## Apple M1 Silicon&#x20;
 
 When trying to run `npm run dev` on the Kwenta repository, community members with the latest M1 reported several issues with regard to the `sharp` package.&#x20;
