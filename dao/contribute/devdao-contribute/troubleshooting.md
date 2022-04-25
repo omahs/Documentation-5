@@ -6,7 +6,7 @@ description: Dev Environment Setup and commonly reported issues
 
 If you run into issues with the dev environment for the Kwenta dApp, please read the troubleshooting information below. If this doesn't help you further, don't hesitate to ask the devDAO community in the `#community-dev` channel for assistance!&#x20;
 
-Please make sure you are on the latest stable (LTE) versions of `nodejs` and `npm`.
+Please make sure you are on the latest stable (LTS) versions of `nodejs` and `npm`.
 
 ### NPM issues with webpack
 
