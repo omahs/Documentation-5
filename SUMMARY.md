@@ -16,6 +16,7 @@
 * [Swaps](products/swaps.md)
 * [Futures](products/futures/README.md)
   * [Basic of Crypto Futures Trading](products/futures/basic-of-crypto-futures-trading/README.md)
+    * [Next Price](products/futures/basic-of-crypto-futures-trading/next-price.md)
     * [Jargon](products/futures/basic-of-crypto-futures-trading/jargon.md)
     * [Spot vs Futures](products/futures/basic-of-crypto-futures-trading/spot-vs-futures.md)
     * [Futures Funding Rates](products/futures/basic-of-crypto-futures-trading/futures-funding-rates.md)
