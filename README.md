@@ -24,12 +24,12 @@ With these docs, you can learn how to start using Kwenta, navigate the platform,
 [futures](products/futures/)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="products/swaps.md" %}
+[swaps.md](products/swaps.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="products/what-is-shorting/" %}
+[what-is-shorting](products/what-is-shorting/)
 {% endcontent-ref %}
 
 ### Decentralized Organization (DAO)
