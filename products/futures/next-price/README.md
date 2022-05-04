@@ -18,7 +18,7 @@ Due to using the future, unknown price to initiate a trade, this mechanism shoul
 
 ### Keepers <a href="#keepers" id="keepers"></a>
 
-Keepers can do things like execute limit orders, liquidate under-collateralized loans, and just about anything on-chain autonomously. Automated keeper are set in place to automatically execute next price orders when their conditions are met (at least one oracle price updates has passed). Due to this development, there is no manual intervention needed from traders on Kwenta to execute next price orders.
+Keepers can do things like execute limit orders, liquidate under-collateralized loans, and just about anything on-chain autonomously. Automated keeper are set in place to automatically execute next price orders when their conditions are met (at least one oracle price update has passed). Due to this development, there is no manual intervention needed from traders on Kwenta to execute next price orders.
 
 ### How do next price orders work? <a href="#how-does-next-price-work" id="how-does-next-price-work"></a>
 
@@ -41,6 +41,19 @@ The next price mechanism has 3 functions:
 Closing an open position with the dedicated Close Position button still incurs regular market order exchange fees. In order to save on the regular exchange fee, traders can instead open a new next-price order through the order UI in the opposite direction of the current position.
 
 {% hint style="danger" %}
-Closing positions by opening a next price order in the opposite direction of the current position is still **experimental**, and might not close the order fully. To make sure the full order is being closed, it is still recommended to use the Close Position button until a dedicated solution is being added to the UI.
+Closing positions by opening a next price order in the opposite direction of the current position is still **experimental**, and might not close the order fully. To make sure the full order is being closed, it is still recommended to use the Close Position button until a dedicated solution is added to the UI.
 {% endhint %}
 
+### Next price orders and maximum leverage
+
+{% hint style="warning" %}
+A next price update could cause your order to exceed maximum leverage resulting in the order being dropped by the Keeper.
+{% endhint %}
+
+#### **Example**
+
+If a trader has 100 sUSD as available margin at 10x leverage they qualify to open a position for 1000 sUSD.\
+\
+If Ethereum is trading at 1000 USD per token the trader can open a long position for 1 ETH costing him 1000 sUSD putting him at 10x leverage. Because next price updates execute on the following price update if the ETH price goes up - e.g. to 1100 USD - that same trader now has insufficient margin to execute his trade. The price spike will cause the trade to execute at 11x leverage exceeding the maximum 10x leverage by 1.
+
+It is therefore recommended to not open a next price order with maximum leverage, but leave a buffer for this eventuality.
