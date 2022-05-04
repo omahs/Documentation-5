@@ -2,7 +2,7 @@
 
 #### TL: DR On Next Price <a href="#tl-dr-on-next-price" id="tl-dr-on-next-price"></a>
 
-* There is a Keeper fee (initially set to 20 sUSD non-refundable once the order is set)
+* There is a Keeper fee (initially set to 20 sUSD refundable only if the user executes the transaction or is the one to cancel the order, but in reality will likely be paid to the keeper)
 * There is a commitment fee (standard exchange bps fees with the difference between standard “market order fees” and “Next Price fees'“ rebated to the trader once the order executes successfully.)
 * If for any reason the next price order fails (edge cases) or is canceled, traders forfeit the commitment fee.
 
