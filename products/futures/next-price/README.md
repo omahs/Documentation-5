@@ -5,9 +5,9 @@ description: Next Price Order Type on Kwenta explained
 # Next Price
 
 {% hint style="info" %}
-* There is a **Keeper fee** (5 sUSD - refundable only if the trader executes the transaction or cancels the order, but in reality will likely be paid to the keeper)
-* There is a **Commitment fee** (standard exchange bps fees with the difference between standard “market order fees” and “Next Price fees'“ rebated to the trader once the order executes successfully.)
-* If for any reason the next price order fails (edge cases) or is canceled, traders forfeit the commitment fee.
+* There is a **Keeper fee** of **5 sUSD**. It is refundable only if the trader cancels the order.
+* There is a **Commitment fee** which is equal to the Market Order fees. The difference with lower Next Price Order fees is rebated to the trader once the order executes successfully.
+* If for any reason the next price order fails or is canceled, traders forfeit the commitment fee.
 {% endhint %}
 
 ### What are next price orders? <a href="#what-is-next-price" id="what-is-next-price"></a>
@@ -35,4 +35,12 @@ The next price mechanism has 3 functions:
 > This mechanism allows lower exchange fees (taker and maker) for such orders, the fees will be set to the following fee schedule below. The dynamic fee will still be added according to the dynamic fee conditions during the execution round (to prevent circumventing the dynamic fee mechanism).
 
 ![Current and Proposed Fee Schedule as per SCCP-191](../../../.gitbook/assets/123.png)
+
+### Closing Positions with next price
+
+Closing a position which has been opened with a next price order still incurs regular exchange fees. In order to save on the regular exchange fee, traders can instead open a new next-price order through the order UI in the opposite direction of the current position.
+
+{% hint style="danger" %}
+Closing positions by opening a next price order in the opposite direction of the current position is still **experimental**, and might not close the order fully. To make sure the full order is being closed, it is still recommended to use the Close Position button until a dedicated solution is being added to the UI.
+{% endhint %}
 
