@@ -36,7 +36,7 @@ The next price mechanism has 3 functions:
 
 ![Current and Proposed Fee Schedule as per SCCP-191](../../../.gitbook/assets/123.png)
 
-### Closing Positions with next price
+### Close a position with next price
 
 Closing a position which has been opened with a next price order still incurs regular exchange fees. In order to save on the regular exchange fee, traders can instead open a new next-price order through the order UI in the opposite direction of the current position.
 
