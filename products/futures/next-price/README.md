@@ -6,7 +6,7 @@ description: Next Price Order Type on Kwenta explained
 
 {% hint style="info" %}
 * There is a **Keeper fee** of **5 sUSD**. It is refundable only if the trader cancels the order.
-* There is a **Commitment fee** which is equal to the Market Order fees. The difference with lower Next Price Order fees is rebated to the trader once the order executes successfully.
+* There is a **Commitment fee** which is equal to the Market Order fee. The difference with the lower Next Price Order fee is rebated to the trader once the order executes successfully.
 * If for any reason the next price order fails or is canceled, traders forfeit the commitment fee.
 {% endhint %}
 
@@ -38,7 +38,7 @@ The next price mechanism has 3 functions:
 
 ### Close a position with next price
 
-Closing a position which has been opened with a next price order still incurs regular exchange fees. In order to save on the regular exchange fee, traders can instead open a new next-price order through the order UI in the opposite direction of the current position.
+Closing an open position with the dedicated Close Position button still incurs regular market order exchange fees. In order to save on the regular exchange fee, traders can instead open a new next-price order through the order UI in the opposite direction of the current position.
 
 {% hint style="danger" %}
 Closing positions by opening a next price order in the opposite direction of the current position is still **experimental**, and might not close the order fully. To make sure the full order is being closed, it is still recommended to use the Close Position button until a dedicated solution is being added to the UI.
