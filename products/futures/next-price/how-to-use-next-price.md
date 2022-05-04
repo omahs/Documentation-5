@@ -18,12 +18,10 @@ Once you’ve toggled to Next-Price you won’t notice a huge change on the orde
 
 ![A next price order shown in the Open Orders tab](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MigG4JjHTDtxrb2SknW%2Fuploads%2FuqxJqoubXxulvqXt6WlE%2F3.png?alt=media\&token=9649ae2b-caf8-426e-b69e-7f2ede709c03)
 
-When the order is executed by a Keeper, it disappears from the Open Order tab and will show as usual on the Open Position tab.
+Once submitted traders will see their pending next price order in the Open Orders tab along with its relevant information. Here traders can cancel their next price order in case they need to. At the next oracle update, an Execute button appears here where traders have the chance to manually execute their order. However, in reality, the order will most likely be picked up within milliseconds by a Keeper, so we advise you to simply check after a few seconds if the order is executed. When the order is executed by a Keeper, it disappears from the Open Order tab and will show as usual on the Open Position tab.
 
 ![](../../../.gitbook/assets/Screen\_Shot\_2022-04-28\_at\_8.32.07\_PM.png)
 
 {% hint style="danger" %}
 Note that the Keeper fee will be refunded if cancelled manually, but the commitment fee will be forfeited when traders cancel their next price order.
 {% endhint %}
-
-Once submitted traders will see their pending next price order in the Open Orders tab along with its relevant information. Here traders can cancel their next price order in case they need to. At the next oracle update, an Execute button appears here where traders have the chance to manually execute their order. However, in reality the order will most likely be picked up within milliseconds by a Keeper, so we advise you to simply check after a few seconds if the order is executed.
