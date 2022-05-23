@@ -12,7 +12,7 @@ Kwenta makes use of and is built atop existing Synthetix infrastructure. Securit
 
 #### Audits
 
-All Synthetix smart contract updates are accompanied by an external security audit performed by [Iosiro](https://iosiro.com).&#x20;
+All Synthetix smart contract updates are accompanied by an external security audit performed by [Iosiro](https://iosiro.com/).&#x20;
 
 {% hint style="success" %}
 Synthetix releases and their accompanying audits can be [found here](https://github.com/Synthetixio/synthetix/releases).
@@ -26,4 +26,4 @@ For an up to date list of all contracts within the current Synthetix system plea
 
 ### Kwenta
 
-Kwenta smart contracts are currently under development and are being audited respectively. Once the smart contracts are live, an overview will be listed here together with their respective security audits. Kwenta smart contracts will be audited by [Iosiro](https://www.iosiro.com).
+Kwenta smart contracts are currently under development and are being audited respectively. Once the smart contracts are live, an overview will be listed here together with their respective security audits. Kwenta smart contracts will be audited by [Iosiro](https://www.iosiro.com/).

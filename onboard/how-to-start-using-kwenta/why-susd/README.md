@@ -8,7 +8,7 @@ description: Explains why Kwenta uses and why traders need sUSD to utilize Kwent
 
 Kwenta quotes its asset prices against sUSD. Traders that want to purchase synthetic assets, open a Futures position, or leverage any of the financial tools provided by Kwenta will need to do so in sUSD.
 
-Supporting sUSD helps Kwenta stay true to its decentralized ethos. sUSD is a fully decentralized stablecoin minted by [Synthetix](https://synthetix.io), a decentralized liquidity protocol. sUSD, because of its decentralized issuance, cannot be muted, blocked, or stopped.
+Supporting sUSD helps Kwenta stay true to its decentralized ethos. sUSD is a fully decentralized stablecoin minted by [Synthetix](https://synthetix.io/), a decentralized liquidity protocol. sUSD, because of its decentralized issuance, cannot be muted, blocked, or stopped.
 
 ## Getting sUSD on Optimistic Ethereum
 

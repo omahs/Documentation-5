@@ -6,7 +6,7 @@ For those interested in participating in the Kwenta Aelin raise, you will need:
 * ETH on Layer 2 Optimism [getting-started-on-optimistic-ethereum.md](../../../onboard/how-to-start-using-kwenta/getting-started-on-optimistic-ethereum.md "mention")
 * sUSD on Layer 2 Optimism [why-susd](../../../onboard/how-to-start-using-kwenta/why-susd/ "mention")
 
-Once you have what you need head over to the [Kwenta Aelin raise pool](https://raise.kwenta.io) to begin.
+Once you have what you need head over to the [Kwenta Aelin raise pool](https://raise.kwenta.io/) to begin.
 
 {% hint style="info" %}
 Make sure you understand and review all the details of the Pool. You'll find a description of each term in the [Getting Started ](kwenta-aelin-how-to.md)section.

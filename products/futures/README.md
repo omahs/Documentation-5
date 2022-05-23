@@ -12,7 +12,7 @@ Kwenta is a decentralized Perpetual Futures exchange on Optimism layer 2 with:
 
 {% embed url="https://v2.beta.kwenta.io/dashboard" %}
 
-![V2 Derivatives Platform](<../../.gitbook/assets/Screen Shot 2022-03-17 at 9.31.53 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2022-05-23 at 8.51.50 AM.png>)
 
 {% hint style="info" %}
 For an in-depth overview of the Synthetix Futures implementation, see [L2 Perpetual Contracts.](l2-perpetual-contracts/)

@@ -46,6 +46,6 @@ There are many bridging solutions available. Note that withdrawals processed via
 
 ![Withdraw from Layer 2 Ethereum](../../.gitbook/assets/onboard/gateway\_withdraw.png)
 
-* [https://gateway.optimism.io/](https://gateway.optimism.io) - Official Bridge, however, withdrawals can take up to 7 days
-* [https://hop.exchange/](https://hop.exchange) - Fast Bridge Recommended
+* [https://gateway.optimism.io/](https://gateway.optimism.io/) - Official Bridge, however, withdrawals can take up to 7 days
+* [https://hop.exchange/](https://hop.exchange/) - Fast Bridge Recommended
 * [https://www.optimism.io/apps/bridges](https://www.optimism.io/apps/bridges) - More bridges

@@ -12,8 +12,8 @@ If you need help bridging funds please see [getting-started-on-optimistic-ethere
 If you are familiar with bridges you can use any of the options below to bridge funds to Optimism Layer 2.
 {% endhint %}
 
-* [https://gateway.optimism.io/](https://gateway.optimism.io) - Official bridge, however, withdrawals can take up to 7 days
-* [https://hop.exchange/](https://hop.exchange) - Recommended bridge
+* [https://gateway.optimism.io/](https://gateway.optimism.io/) - Official bridge, however, withdrawals can take up to 7 days
+* [https://hop.exchange/](https://hop.exchange/) - Recommended bridge
 * [https://www.optimism.io/apps/bridges](https://www.optimism.io/apps/bridges) - More bridges
 
 ### Aelin Key terms and how they apply

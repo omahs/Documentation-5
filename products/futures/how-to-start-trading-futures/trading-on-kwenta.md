@@ -6,7 +6,7 @@ Before you can begin trading on Kwenta Futures you will need:
 2. The Optimism Ethereum network added to your [wallet](setup-metamask.md)
 3. Fund You wallet with sUSD
 
-If you do not have the wallet set up, you can follow the steps outlined [here](setup-metamask.md). If the above has been completed, head over to the [Kwenta Futures Platform](https://v2.beta.kwenta.io) to begin trading. If you'd like to first get an in-depth overview of everything on the Futures Dashboard, check it out [here](futures-dashboard.md).
+If you do not have the wallet set up, you can follow the steps outlined [here](setup-metamask.md). If the above has been completed, head over to the [Kwenta Futures Platform](https://v2.beta.kwenta.io/) to begin trading. If you'd like to first get an in-depth overview of everything on the Futures Dashboard, check it out [here](futures-dashboard.md).
 
 #### Main Dashboard <a href="#main-competition-dashboard" id="main-competition-dashboard"></a>
 

@@ -4,7 +4,7 @@ description: Week 1 & 2 (Feb 14th to Feb 27th)
 
 # Kwenta Aelin Raise
 
-The Kwenta treasuryDAO will raise funds via [Aelin](https://aelin.xyz) to fuel DAO development.
+The Kwenta treasuryDAO will raise funds via [Aelin](https://aelin.xyz/) to fuel DAO development.
 
 Kwenta will sell 5% of the total token supply pre-inflation (15,668.65 Kwenta out of 313,373 Kwenta) for 5M sUSD, placing the total supply at a 100m USD valuation.
 

@@ -12,7 +12,7 @@ With Kwenta's transition to independence completed, it's time to reveal the Kwen
 | ------------------ | ----------- |
 | **Q1 2022**        |             |
 | UI Redesign        | In progress |
-| Futures Beta       | In progress |
+| Futures Beta       | Launched    |
 | Token Launch       | In progress |
 | L2 Shorts          | Completed   |
 | **Q2 2022**        |             |

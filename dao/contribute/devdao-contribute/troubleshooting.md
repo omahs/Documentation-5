@@ -98,7 +98,7 @@ To verify if Rosetta is working, type `arch` in the Terminal. It should return `
 While it is possible to run two version of homebrew and node (M1 and Rosetta), it is recommended to remove any `arm64`homebrew or node installations to avoid issues later on.
 {% endhint %}
 
-Now install the `i386`version of homebrew according to their [website instructions](https://brew.sh). It should install into the `/usr/local/homebrew` directory.
+Now install the `i386`version of homebrew according to their [website instructions](https://brew.sh/). It should install into the `/usr/local/homebrew` directory.
 
 Once brew is installed, you can run `brew install npm`. You can verify that you installed the correct version by typing `node -p process.arch` which should return `x64`.
 

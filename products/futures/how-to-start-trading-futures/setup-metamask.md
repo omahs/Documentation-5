@@ -6,9 +6,9 @@ Here you will find an in-depth how-to guide on installing and setting up the Met
 
 To create a new wallet, you have to install the extension first. Depending on your browser, there are different marketplaces to find it.&#x20;
 
-We recommend you download the [MetaMask extension](https://metamask.io) that matches your browser from their [website](https://metamask.io) or alternatively your browsers official store.
+We recommend you download the [MetaMask extension](https://metamask.io/) that matches your browser from their [website](https://metamask.io/) or alternatively your browsers official store.
 
-A word of **caution**, be sure that you are downloading the extension from your browser’s official store or the [MetaMask](https://metamask.io) official website. We advise **against downloading** and installing software from third-party sites.
+A word of **caution**, be sure that you are downloading the extension from your browser’s official store or the [MetaMask](https://metamask.io/) official website. We advise **against downloading** and installing software from third-party sites.
 
 In the Chrome Web Store:
 

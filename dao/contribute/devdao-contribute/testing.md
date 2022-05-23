@@ -15,11 +15,11 @@ At the moment, two e2e test for UI features are available:
 * Wallet login: `login-spec.js`
 * Exchange: `trade-spec.js`
 
-Bounty hunters of the devDAO are currently working on improving and adding additional e2e tests for all other major UI features. If you're interested in helping out, don't be shy to drop a line in the `#community-dev` channel on our [Discord](https://discord.gg)!
+Bounty hunters of the devDAO are currently working on improving and adding additional e2e tests for all other major UI features. If you're interested in helping out, don't be shy to drop a line in the `#community-dev` channel on our [Discord](https://discord.gg/)!
 
 ### How-to: End-2-end testing guidance
 
-In order to run fully automated end-2-end (e2e) tests Kwenta uses [Synpress](https://github.com/Synthetixio/synpress) (a wrapper around [Cynpress](https://www.cypress.io)).
+In order to run fully automated end-2-end (e2e) tests Kwenta uses [Synpress](https://github.com/Synthetixio/synpress) (a wrapper around [Cynpress](https://www.cypress.io/)).
 
 {% hint style="success" %}
 Contact the community PM on Discord if you're working on a ticket and are looking for kETH and Kovan sUSD for testing purposes.
