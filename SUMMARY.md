@@ -84,6 +84,7 @@
 
 ## Resources
 
+* [FAQ](resources/faq.md)
 * [Roadmap](resources/roadmap.md)
 * [Oracles](resources/oracles.md)
 * [Smart Contracts](resources/smart-contracts.md)
