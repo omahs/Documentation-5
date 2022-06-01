@@ -28,8 +28,8 @@ With these docs, you can learn how to start using Kwenta, navigate the platform,
 [swaps.md](products/swaps.md)
 {% endcontent-ref %}
 
-{% content-ref url="products/what-is-shorting/" %}
-[what-is-shorting](products/what-is-shorting/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Decentralized Organization (DAO)

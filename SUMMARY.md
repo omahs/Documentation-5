@@ -41,8 +41,7 @@
     * [sXAG](products/futures/l2-perpetual-contracts/sxag.md)
     * [sBTC](products/futures/l2-perpetual-contracts/sbtc.md)
     * [sLINK](products/futures/l2-perpetual-contracts/slink.md)
-* [Shorting](products/what-is-shorting/README.md)
-  * [Shorting Tutorial](products/what-is-shorting/shorting-tutorial.md)
+  * [Page 1](products/futures/page-1.md)
 * [Fee Structure](products/exchange-fees.md)
 
 ## DAO
@@ -64,6 +63,7 @@
   * [Developers](dao/contribute/devdao-contribute.md)
     * [Troubleshooting](dao/contribute/devdao-contribute/troubleshooting.md)
     * [Testing](dao/contribute/devdao-contribute/testing.md)
+  * [MarketingDAO](dao/contribute/marketingdao.md)
 
 ## Tokenomics
 
