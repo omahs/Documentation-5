@@ -6,7 +6,7 @@ description: How to contribute to the devDAO
 
 Kwenta is a dApp enabling derivates trading with infinite liquidity - powered by the Synthetix protocol. We're community-driven and welcome all contributions. We aim to provide a constructive, respectful and fun environment for collaboration.
 
-If you wish to help out, please first join the **Kwenta devDAO** on our [Discord](https://discord.gg/kwenta) `#community-dev` channel. For more information, see [devDAO](devdao-contribute.md#devdao) below.
+If you wish to help out, please first join the **Kwenta devDAO** on our [Discord](https://discord.gg/kwenta) `#devdao-chat` channel. For more information, see [devDAO](devdao-contribute.md#devdao) below.
 
 This guide is geared towards beginners. If you're an open-source veteran feel free to just skim this document and get straight into crushing issues.
 
@@ -30,17 +30,17 @@ Regardless of the reason, the process to begin contributing is very much the sam
 
 The devDAO has been created specifically to foster open community development and reward community, developers. It is an essential piece in our collaborative effort to fully decentralize Kwenta.
 
-Be welcome to join the Kwenta devDAO on our [Discord](https://discord.gg/kwenta) `#community-dev` channel.
+Be welcome to join the Kwenta devDAO on our [Discord](https://discord.gg/kwenta) `#devdao-chat`channel.
 
-This is where discussions take place, new tickets will be announced by the community PM and assigned to the respective community members and roles on a first-come, first-served base.
+This is where discussions take place, new tickets will be announced by the devDAO PM and assigned to the respective community members and roles on a first-come, first-served base.
 
-There are different roles depending on the severity of a ticket. As a new community member, you should watch out for _bounty hunter_ tickets are work your way up from there.
+There are different roles depending on the severity of a ticket. As a new community member, you should watch out for _good first issue_ tickets and work your way up from there.
 
 ### General Work-Flow
 
 We recommend the following work-flow for contributors:
 
-1. **Find an open ticket** to work on in our Discord, either because it's interesting or suitable to your skill-set. Use the `#community-dev channel` to communicate your intentions and ask questions.
+1. **Find an open ticket** to work on in our Discord, either because it's interesting or suitable to your skill-set. Use the `#devdao-chat channel` to communicate your intentions and ask questions.
 2. **Work in a feature branch** of your personal fork (github.com/YOUR\_NAME/kwenta) of the main repository (github.com/kwenta/kwenta).
 3. Once you feel you have addressed the issue, **create a pull-request** to merge your changes in to the main repository. In case of any doubts, don't hesitate to contact the community PM or ask away in the channel.
 4. Wait for a CC or auditor to **review your changes** to ensure the issue is addressed satisfactorily. Optionally, mention your PR on [Discord](https://discord.gg/kwenta).
@@ -58,6 +58,10 @@ First-time contributors can get their git environment up and running with these 
 6. Go to your fork on github.com and use the web interface to create a pull request into the Kwenta repository.
 
 From there, the CCs or auditors will review the PR and either accept it or provide some constructive feedback.
+
+{% hint style="info" %}
+Always branch off of the`dev`branch for your contributions.
+{% endhint %}
 
 If you have any questions along the way, the community PM will be there to guide and assist you!
 
