@@ -128,7 +128,7 @@ There are a few easy ways to connect to Optimistic Ethereum to MetaMask. The eas
 * [Click here to connect to optimistic-goerli](https://chainid.link/?network=optimism-goerli) <-**Testnet**
 * [Click here to connect to optimistic-ethereum](https://chainid.link/?network=optimism) <- Mainnet
 
-Alternatively, if you must add the network manually, you can find easy-to-follow instructions [here](https://community.optimism.io/docs/users/metamask.html).
+Alternatively, if you must add the network manually, you can find easy-to-follow instructions [here](https://community.optimism.io/docs/guides/wallet-dev/).
 
 \
 \
