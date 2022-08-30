@@ -1,6 +1,6 @@
 # Setup MetaMask
 
-Here you will find an in-depth how-to guide on installing and setting up the MetaMask wallet for the Kwenta Testnet Futures Competition. If you only need to add the Optimism Ethereum networks, skip to the end.
+Here you will find an in-depth how-to guide on installing and setting up the MetaMask wallet. If you only need to add the Optimism Ethereum networks, skip to the end.
 
 #### Step 1. Install the MetaMask browser extension <a href="#step-1-install-the-metamask-browser-extension" id="step-1-install-the-metamask-browser-extension"></a>
 
@@ -123,9 +123,9 @@ And that’s it. You have now successfully restored your account by following th
 
 ### Adding Optimistic Ethereum to MetaMask: <a href="#adding-optimistic-ethereum-to-metamask" id="adding-optimistic-ethereum-to-metamask"></a>
 
-There are a few easy ways to connect to Optimistic Ethereum to MetaMask. The easiest way is to use these chainid.links. For these links to work, you must access them from a browser with a web3 wallet extension installed (MetaMask, etc.) For the Kwenta Competition, you only need the first network from the list below.
+There are a few easy ways to connect to Optimistic Ethereum to MetaMask. The easiest way is to use these chainid.links. For these links to work, you must access them from a browser with a web3 wallet extension installed (MetaMask, etc.) If you want to only test Kwenta on the Optimistic Goerli testnet, you only need the first network from the list below.
 
-* [Click here to connect to optimistic-kovan](https://chainid.link/?network=optimism-kovan) <-Testnet
+* [Click here to connect to optimistic-goerli](https://chainid.link/?network=optimism-goerli) <-**Testnet**
 * [Click here to connect to optimistic-ethereum](https://chainid.link/?network=optimism) <- Mainnet
 
 Alternatively, if you must add the network manually, you can find easy-to-follow instructions [here](https://community.optimism.io/docs/users/metamask.html).
