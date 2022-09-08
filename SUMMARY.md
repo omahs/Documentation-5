@@ -41,6 +41,7 @@
     * [sXAG](products/futures/l2-perpetual-contracts/sxag.md)
     * [sBTC](products/futures/l2-perpetual-contracts/sbtc.md)
     * [sLINK](products/futures/l2-perpetual-contracts/slink.md)
+  * [Cross Margin Accounts](products/futures/cross-margin-accounts.md)
 * [Fee Structure](products/exchange-fees.md)
 
 ## DAO
